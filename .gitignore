@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Fucking google drive generate this shitty files in the  .git/ tree
+**/desktop.ini
+
 # C extensions
 *.so
 
