@@ -1,0 +1,7294 @@
+﻿The Project Gutenberg eBook of La Vuelta de Martín Fierro
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: La Vuelta de Martín Fierro
+
+Author: José Hernández
+
+Release date: February 15, 2005 [eBook #15066]
+                Most recently updated: December 14, 2020
+
+Language: Spanish
+
+Credits: Produced by La Biblioteca Digital Argentina, formatted by Mariano
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK LA VUELTA DE MARTÍN FIERRO ***
+
+
+
+
+Produced by La Biblioteca Digital Argentina, formatted by Mariano
+
+
+
+
+
+La Vuelta de Martín Fierro
+
+de José Hernández
+
+
+Bienos Aires,
+Librería del Plata,
+Calle Tacuarí 17.
+
+1879.
+
+
+
+
+Cuatro palabras de conversación con los lectores
+
+Entrego á la benevolencia pública, con el título LA VUELTA DE MARTIN
+FIERRO, la segunda parte de una obra que ha tenido una acogida tan
+generosa, que en seis años se han repetido once ediciones con un total
+de cuarenta y ocho mil ejemplares.
+
+Esto no es vanidad de autor, porque no rindo tributo á esa falsa
+diosa; ni bombo de Editor, porque no lo he sido nunca de mis humildes
+producciones.
+
+Es un recuerdo oportuno y necesario, para esplicar porque el primer
+tirage del presente libro consta de 20 mil ejemplares, divididos en
+cinco secciones ó ediciones de 4 mil números cada una -y agregaré, que
+confio en que el acreditado Establecimiento Tipográfico del Sr. Coni,
+hará una impresion esmerada, como la que tienen todos los libros que
+salen de sus talleres.
+
+Lleva tambien diez ilustraciones incorporadas en el testo, y creo que
+en los dominios de la literatura es la primera vez que una obra sale
+de las prensas nacionales con esta mejora.
+
+Así se empieza.
+
+Las láminas han sido dibujadas y calcadas en la piedra por D. Cárlos
+Clerice, artista compatriota que llegará á ser notable en su ramo,
+porque es jóven, tiene escuela, sentimiento artístico, y amor al
+trabajo.
+
+El grabado ha sido ejecutado por el señor Supot, que posée el arte,
+nuevo y poco generalizado todavia entre nosotros, de fijar en láminas
+metálicas lo que la habilidad del litógrafo ha calcado en la piedra,
+creando ó imaginando posiciones que interpreten con claridad y
+sentimiento la escena descrita en el verso.
+
+No se ha omitido, pues, ningun sacrificio á fin de hacer una
+publicacion en las mas aventajadas condiciones artísticas.
+
+En cuanto á su parte literaria, solo diré que no se debe perder de
+vista al juzgar los defectos del libro, que es copia fiel de un
+original que los tiene, y repetiré, que muchos defectos están allí
+con el objeto de hacer mas evidente y clara la imitacion de los que lo
+son en realidad.
+
+Un libro destinado á despertar la inteligencia y el amor á la lectura
+en una poblacion casi primitiva, á servir de provechoso recreo,
+despues de las fatigosas tareas, á millares de personas que jamás han
+leido, debe ajustarse estrictamente á los usos y costumbres de esos
+mismos lectores, rendir sus ideas é interpretar sus sentimientos en su
+mismo lenguage, en sus frases mas usuales, en su forma mas general,
+aunque sea incorrecta; con sus imágenes de mayor relieve, y con sus
+giros mas característicos, á fin de que el libro se identifique con
+ellos de una manera tan estrecha é intima, que su lectura no sea sino
+una continuacion natural de su existencia.
+
+Solo asi pasan sin violencia del trabajo al libro; y solo asi, esa
+lectura puede serles amena, interesante y útil.
+
+Ojalá hubiera un libro que gozára del dichoso privilegio de circular
+de mano en mano en esa inmensa poblacion diseminada en nuestras vastas
+campañas, y que bajo una forma que lo hiciera agradable, que asegurára
+su popularidad, sirviera de ameno pasatiempo á sus lectores, pero;-
+
+Enseñando que el trabajo honrado es la fuente principal de toda mejora
+y bienestar-
+
+Enalteciendo las virtudes morales que nacen de la ley natural y que
+sirven de base á todas las virtudes sociales-
+
+Inculcando en los hombres el sentimiento de veneracion hácia su
+Creador, inclinándolos á obrar bien-
+
+Afeando las supersticiones ridículas y generalizadas que nacen de una
+deplorable ignorancia-
+
+Tendiendo á regularizar y dulcificar las costumbres, enseñando por
+medios hábilmente escondidos, la moderacion y el aprecio de si mismo;
+el respeto á los demas; estimulando la fortaleza por el espectáculo
+del infortunio acerbo, aconsejando la perseverancia en el bien y la
+resignacion en los trabajos-
+
+Recordando á los Padres los deberes que la naturaleza les impone para
+con sus hijos, poniendo ante sus ojos los males que produce su olvido,
+induciéndolos por ese medio á que mediten y calculen por si mismos
+todos los beneficios de su cumplimiento-
+
+Enseñando á los hijos como deben respetar y honrar á los autores de
+sus dias-
+
+Fomentando en el esposo el amor á su esposa, recordando á esta los
+santos deberes de su estado; encareciendo la felicidad del hogar,
+enseñando á todos á tratarse con respeto reciproco, robusteciendo por
+todos estos medios los vinculos de la familia y de la sociabilidad-
+
+Afirmando en los ciudadanos el amor á la libertad, sin apartarse del
+respeto que es debido á los superiores y magistrados-
+
+Enseñando á hombres con escasas nociones morales, que deben ser
+humanos y clementes, caritativos con el huérfano y con el desvalido;
+fieles á la amistad; gratos á los favores recibidos; enemigos de la
+holgazanería y del vicio; conformes con los cambios de fortuna;
+amantes de la verdad, tolerantes, justos y prudentes siempre.
+
+Un libro que todo esto, mas que esto, ó parte de esto enseñara sin
+decirlo, sin revelar su pretension, sin dejarla conocer siquiera,
+seria indudablemente un buen libro, y por cierto que levantaria el
+nivel moral é intelectual de sus lectores aunque dijera naides por
+nadie, resertor por desertor, mesmo por mismo, u otros barbarismos
+semejantes; cuya enmienda le está reservada á la escuela, llamada á
+llenar un vacio que el poema debe respetar, y á corregir vicios y
+defectos de fraseologia, que son también elementos de que se debe
+apoderar el arte para combatir y estirpar males morales mas
+fundamentales y trascendentes, examinándolos bajo el punto de vista
+de una filosofia mas elevada y pura.
+
+El progreso de la locucion no es la base del progreso social, y un
+libro que se propusiera tan elevados fines, deberia prescindir por
+completo de las delicadas formas de la cultura de la frase,
+subordinándose á las imperiosas exigencias de sus propósitos
+moralizadores, que serían en tal caso, el éxito buscado.
+
+Los personajes colocados en escena deberían hablar en su lenguaje
+peculiar y propio, con su originalidad, su gracia y sus defectos
+naturales, porque despojados de ese ropaje, lo serían igualmente de
+su carácter típico, que es lo único que los hace simpáticos,
+conservando la imitacion y la verosimilitud en el fondo y en la forma.
+
+Entra tambien en esta parte la eleccion del prisma á traves del cual
+le es permitido á cada uno estudiar sus tiempos. Y aceptando esos
+defectos como un elemento, se idealiza tambien, se piensa, se inclina
+á los demás á que piensen igualmente, y se agrupan, se preparan y
+conservan pequeños monumentos de arte, para los que han de estudiarnos
+mañana y levantar el grande monumento de la historia de nuestra
+civilizacion.
+
+El gaucho no conoce ni siquiera los elementos de su propio idioma, y
+sería una impropiedad cuando menos, y una falta de verdad muy
+censurable, que quien no ha abierto jamás un libro, siga las reglas de
+arte de Blair, Hermosilla ó la Academia.
+
+El gaucho no aprende á cantar. Su único maestro es la espléndida
+naturaleza que en variados y majestuosos panoramas se extiende delante
+de sus ojos. Canta porque hay en él cierto impulso moral, algo de
+métrico, de rítmico que domina en su organizacion, y que lo lleva
+hasta el estraordinario estremo de que, todos sus refranes, sus dichos
+agudos, sus proverbios comunes son espresados en dos versos
+octosílabos perfectamente medidos, acentuados con inflexible
+regularidad, llenos de armonía, de sentimiento y de profunda intencion.
+
+Eso mismo hace muy dificil, sinó de todo punto imposible, distinguir y
+separar cuales son los pensamientos originales del autor, y cuales los
+que son recojidos de las fuentes populares.
+
+No tengo noticia que exista ni que haya existido una raza de hombres
+aproximados á la naturaleza, cuya sabiduria proverbial llene todas las
+condiciones rítmicas de nuestros proverbios gauchos.
+
+Qué singular es, y qué digno de observacion, el oir á nuestros
+paisanos mas incultos, espresar en dos versos claros y sencillos,
+máximas y pensamientos morales que las naciones mas antiguas, la India
+y la Persia, conservaban como el tesoro inestimable de su sabiduria
+proverbial; que los griegos escuchaban con veneracion de boca de sus
+sabios mas profundos, de Sócrates, fundador de la moral, de Platon y
+de Aristóteles; que entre los latinos difundió gloriosamente el
+afamado Seneca; que los hombres del Norte les dieron lugar preferente
+en su robusta y enérgica literatura; que la civilizacion moderna
+repite por medio de sus moralistas mas esclarecidos, y que se hallan
+consagrados fundamentalmente en los códigos religiosos de todos los
+grandes reformadores de la humanidad.
+
+Indudablemente, que hay cierta semejanza íntima, cierta identidad
+misteriosa entre todas las razas del globo que solo estudian en el
+gran libro de la naturaleza; pues que de él deducen, y vienen
+deduciendo desde hace mas de tres mil años, la misma enseñanza, las
+mismas virtudes naturales, expresadas en prosa por todos los hombres
+del globo, y en versos por los gauchos que habitan las vastas y
+fértiles comarcas que se estienden á las dos márgenes del Plata.
+
+El corazon humano y la moral son los mismos en todos los siglos.
+
+Las civilizaciones difieren esencialmente. "Jamás se hará, dice el
+doctor Don V. F. Lopez en su prólogo á LAS NEUROSIS, un profesor ó un
+catedrático Europeo, de un Bracma"; así debe ser: pero no ofreceria la
+misma dificultad el hacer de un gaucho un Bracma lleno de sabiduria;
+si es que los Bracmas hacen consistir toda su ciencia en su sabiduria
+proverbial, segun los pinta el sabio conservador de la Biblioteca
+Nacional de París, en "La sabiduria popular de todas las naciones" que
+difundió en el nuevo mundo el americano Pazos Kanki.
+
+Saturados de ese espíritu gaucho, hay entre nosotros algunos poetas de
+formas muy cultas y correctas, y no ha de escasear el género, porque
+es una produccion legítima y espontánea del pais, y que en verdad, no
+se manifiesta únicamente en el terreno florido de la literatura.
+
+Concluyo aquí, dejando á la consideracion de los benévolos lectores,
+lo que yo no puedo decir sin estender demasiado este prefacio, poco
+necesario en las humildes coplas de un hijo del desierto.
+
+¡Sea el público indulgente con él! Y acepte esta humilde produccion,
+que le dedicamos como que es nuestro mejor y mas antiguo amigo.
+
+       *       *       *       *       *
+
+La originalidad de un libro debe empezar en el prólogo.
+
+Nadie se sorprenda por lo tanto, ni de la forma ni de los objetos que
+este abraza; y debemos terminarlo haciendo público nuestro
+agradecimiento hacia los distinguidos escritores que acaban de
+honrarnos con su fallo, como el señor D. José Tomás Guido, en una
+bellísima carta que acogieron deferentes La Tribuna y La Prensa, y que
+reprodujeron en sus columnas varios periódicos de la República. - El
+Dr. D. Adolfo Saldias, en un meditado trabajo sobre el tipo histórico
+y social del gaucho. - El Dr. D. Miguel Navarro Viola, en la última
+entrega de la Biblioteca Popular, estimulándonos, con honrosos
+términos, á continuar en la tarea empezada.
+
+Diversos periódicos de la ciudad y campaña, como EL Heraldo, del Azul,
+La Patria, de Dolores, El Oeste, de Mercedes, y otros, han adquirido
+tambien justos titulos á nuestra gratitud, que conservamos como una
+deuda sagrada.
+
+Terminamos esta breve reseña con La Capital, del Rosario, que ha
+anunciado LA VUELTA DE MARTIN FIERRO, haciendo concebir esperanzas que
+Dios sabe si van á ser satisfechas.
+
+Ciérrase este prólogo diciendo que se llama este libro LA VUELTA DE
+MARTIN FIERRO, porque este título le dió el público, antes, mucho
+antes de haber yo pensado en escribirlo; y allá va á correr tierras
+con mi bendición paternal.
+
+JOSÉ HERNÁNDEZ.
+
+
+
+
+La Vuelta de Martín Fierro
+
+
+I
+
+MARTÍN FIERRO
+
+396
+Atención pido al silencio
+y silencio a la atención,
+que voy en esta ocasión,
+si me ayuda la memoria,
+a mostrarles que a mi historia
+le faltaba lo mejor.
+
+397
+Viene uno como dormido
+cuando vuelve del desierto;
+veré si a esplicarme acierto
+entre gente tan bizzarra
+y si al sentir la guitarra
+de mi sueño me despierto.
+
+398
+Siento que mi pecho tiembla,
+que se turba mi razón,
+y de la viguela al son
+imploro a la alma de un sabio
+que venga a mover mi labio
+y alentar mi corazón.
+
+399
+Si no llego a treinta y una
+de fijo en treinta me planto,
+y esta confianza adelanto
+porque recibí en mi mismo,
+con el agua del bautismo,
+la facultá para el canto.
+
+400
+Tanto el pobre como el rico
+la razón me la han de dar;
+y si llegan a escuchar
+lo que esplicaré a mi modo,
+digo que no han de rair todos:
+algunos han de llorar.
+
+401
+Mucho tiene que contar
+el que tuvo que sufrir,
+y empezaré por pedir
+no duden de cuanto digo;
+pues debe creerse al testigo
+si no pagan por mentir.
+
+402
+Gracias le doy a la virgen,
+gracias le doy al Señor,
+porque entre tanto rigor
+y habiendo perdido tanto,
+no perdí mi amor al canto
+ni mi voz como cantor.
+
+403
+Que cante todo viviente
+otorgó el Eterno Padre;
+cante todo el que le cuadre
+como lo hacemos los dos
+pues sólo no tiene voz
+el ser que no tiene sangre.
+
+404
+Canta el pueblero... Y es pueta;
+canta el gaucho... Y, ¡ay Jesús!,
+Lo miran como avestruz,
+su inorancia los asombra;
+mas siempre sirven las sombras
+para distinguir la luz.
+
+405
+El campo es del inorante,
+el pueblo del hombre estruido;
+yo que en el campo he nacido
+digo que mis cantos son
+para los unos... Sonidos,
+y para otros... Intención.
+
+406
+Yo he conocido cantores
+que era un gusto el escuchar;
+mas no quieren opinar
+y se divierten cantando;
+pero yo canto opinando,
+que es mi modo de cantar.
+
+407
+El que va por esta senda
+cuanto sabe desembucha,
+y aunque mi cencia no es mucha,
+esto en mi favor previene;
+yo se el corazón que tiene
+el que con gusto me escucha.
+
+408
+Lo que pinta este pincel
+ni el tiempo lo ha de borrar;
+ninguno se ha de animar
+a corregirme la plana;
+no pinta quien tiene gana
+sino quien sabe pintar.
+
+409
+Y no piensen los oyentes
+que del saber hago alarde;
+he conocido aunque tarde,
+sin haberme arrepentido,
+que es pecado cometido
+el decir ciertas verdades.
+
+410
+Pero voy en mi camino
+y nada me ladiará;
+he de decir la verdá;
+de naides soy adulón;
+aqui no hay imitación;
+esta es pura realidá.
+
+411
+Y el que me quiera enmendar
+mucho tiene que saber;
+tiene mucho que aprender
+el que me sepa escuchar;
+tiene mucho que rumiar
+el que me quiera entender.
+
+412
+Más que yo y cuantos me oigan,
+más que las cosas que tratan,
+más que los que ellos relatan,
+mis cantos han de durar;
+mucho ha habido que mascar
+para echar esta bravata.
+
+413
+
+Brotan quejas de mi pecho,
+brota un lamento sentido;
+y es tanto lo que he sufrido
+y males de tal tamaño
+que reto a todos los años
+a que traigan el olvido.
+
+414
+Ya verán si me despierto
+cómo se compone el baile;
+y no se sorprenda naides
+si mayor fuego me anima;
+porque quiero alzar la prima
+como pa tocar al aire.
+
+415
+Y con la cuerda tirante
+dende que ese tono elija,
+yo no he de aflojar manija
+mientras que la voz no pierda,
+si no se corta la cuerda
+o no cede la clavija.
+
+416
+Aunque rompí el estrumento
+por no volverme a tentar,
+tengo tanto que contar
+y cosas de tal calibre,
+que Dios quiera que se libre
+el que me enseñó a templar.
+
+417
+De naides sigo el ejemplo,
+naides a dirigirme viene;
+yo digo cuanto conviene,
+y el que en tal güeya se planta,
+debe cantar, cuando canta,
+con toda la voz que tiene.
+
+418
+He visto rodar la bola
+y no se quiere parar;
+al fin de tanto rodar
+me he decidido a venir
+a ver si puedo vivir
+y me dejan trabajar.
+
+419
+Sé dirigir la mansera
+y tambien echar un pial;
+sé correr en un rodeo,
+trabajar en un corral;
+me se sentar en un pértigo
+lo mesmo que en un bagual.
+
+420
+Y enpriéstenmé su atención
+si ansí me quieren honrar
+de no, tendré que callar,
+pues el pájaro cantor
+jamás se para de cantar
+en árbol que no da flor.
+
+421
+Hay trapitos que golpiar
+y de aquí no me levanto;
+si quieren que desembuche:
+tengo que decirles tanto
+que les mando que me escuchen.
+
+422
+Déjenmé tomar un trago:
+estas son otras cuarenta
+mi garganta esta sedienta,
+y de esto no me abochorno,
+pues el viejo, como el horno,
+por la boca se calienta.
+
+
+II
+
+423
+Triste suena mi guitarra
+y el sunto lo requiere;
+ninguno alegrías espere
+sino sentidos lamentos
+de aquel que en duros tormentos
+nace, crece, vive y muere.
+
+424
+Es triste dejar sus pagos
+y largarse a tierra ajena
+llevándose la alma llena
+de tormentos y dolores;
+mas nos llevan los rigores
+como el pampero a la arena.
+
+425
+Irse a cruzar el desierto
+lo mesmo que un forajido,
+dejando aquí en el olvido,
+como dejamos nosotros,
+su mujer en brazos de otro
+y sus hijitos perdidos.
+
+426
+¡Cuantas veces al cruzar
+en esa inmensa llanura,
+al verse en tal desventura
+y tan lejos de los suyos,
+se tira uno entre los yuyos
+a llorar con amargura!
+
+427
+En la orilla de un arroyo
+solitario lo pasaba,
+en mil cosas cavilaba
+y, a una güelta repentina,
+se me hacía ver a mi china
+o escuchar que me llamaba.
+
+428
+Y las aguas serenitas
+bebe el pingo trago a trago,
+mientras sin ningún halago
+pasa uno hasta sin comer,
+por pensar en su mujer,
+en sus hijos y en su pago.
+
+429
+Recordarán que con Cruz
+para el desierto tiramos
+en la pampa nos entramos,
+cayendo, por fin del viaje,
+a unos toldos de salvajes,
+los primeros que encontramos.
+
+430
+La desgracia nos seguía:
+llegamos en mal momento;
+estaban de parlamento
+tratando de una invasión
+y el indio en tal ocasión
+recela hasta de su aliento.
+
+431
+Se armó un tremendo alboroto
+cuando nos vieron llegar;
+no podiamos aplacar
+tan peligroso hervidero;
+nos tomaron por bomberos
+y nos quisieron lanciar.
+
+432
+Nos quitaron los caballos
+a los muy pocos minutos;
+estaban irresolutos;
+¡quién sabe qué pretendían!
+Por los ojos nos metían
+las lanzas aquellos brutos.
+
+433
+Y déle en su lengüeteo
+hacer gestos y cabriolas;
+uno desató las bolas
+y se nos vino enseguida;
+ya no créiamos con vida
+salvar ni por carambola.
+
+434
+Alla no hay misericordia
+ni esperanza que tener;
+el indio es de parecer
+que siempre matar se debe,
+pues la sangre que no bebe
+le gusta verla correr.
+
+435
+Cruz se dispuso a morir
+peliando y me convidó.
+"Aguantemos", dije yo,
+"El fuego hasta que nos queme".
+Menos los peligros teme
+quien más veces lo venció.
+
+436
+Se debe ser mas prudente
+cuando el peligro es mayor;
+siempre se salva mejor
+andando con alvertencia
+porque no está la prudencia
+reñida con el valor.
+
+437
+Vino al fin el lenguaraz
+como a trairnos el perdón;
+nos dijo: "La salvación
+se la deben a un cacique;
+me manda que les esplique
+que se trata de un malón."
+
+438
+"Les ha dicho a los demás
+que ustedes quedan cautivos
+por si cain algunos vivos
+en poder de los cristianos,
+rescatar a sus hermanos
+con estos dos fugitivos."
+
+439
+Volvieron al parlamento
+a tratar de sus alianzas,
+o tal vez de las matanzas,
+y, conforme les detallo,
+hicieron cerco a caballo
+recostándose en las lanzas.
+
+440
+Dentra al centro un indio viejo
+y alli a lengüetiar se larga;
+¡quién sabe qué les encarga!
+Pero toda la riunión
+lo escuchó con atención
+lo menos tres horas largas.
+
+441
+Pegó al fin tres alaridos
+y ya principiaba otra danza;
+para mostrar su pujanza
+y dar pruebas de jinete,
+dió riendas rayando el flete
+y revoliando la lanza.
+
+442
+Recorre luego la fila,
+frente a cada indio se para,
+lo amenaza cara a cara
+y, en su juria, aquel maldito
+acompaña con su grito
+el cimbrar de la tacuara.
+
+443
+Se vuelve aquello un incendio
+mas feo que la mesma guerra:
+entre una nube de tierra
+se hizo allí una mezcolanza
+de potros, indios y lanzas,
+con alaridos que aterran.
+
+444
+Parece un baile de fieras
+sigún yo me lo imagino;
+era inmenso el remolino,
+las voces aterradoras;
+hasta que al fin de dos horas
+se aplacó aquel torbellino.
+
+445
+De noche formaban cerco
+y en el centro nos ponían;
+para mostrar que querían
+quitarnos toda esperanza,
+ocho o diez filas de lanzas
+alrrededor nos hacían.
+
+446
+Allí estaban vigilante
+cuidandonos a porfía;
+cuando roncar parecían
+"Huincá", gritaba cualquiera,
+y toda la fila entera
+"Huincá", "Huincá", repetía.
+
+447
+Pero el indio es dormilón
+y tiene un sueño projundo;
+es roncador sin segundo
+y en tal confianza es su vida,
+que ronca a pata tendida
+aunque se de güelta el mundo.
+
+448
+Nos aviriguaban todo
+como aquel que se previene,
+porque siempre les conviene
+saber las juerzas que andan,
+donde estan, quienes las mandan,
+que caballos y armas tienen.
+
+449
+A cada respuesta nuestra
+uno hace una esclamación,
+y luego en continuación
+aquellos indios feroces,
+cientos y cientos de voces
+repiten al mesmo son.
+
+450
+Y aquella voz de un solo,
+que empieza por un gruñido,
+lega hasta ser alarido
+de toda la muchedumbre,
+y ansí adquieren la costumbre
+de pegar esos bramidos.
+
+
+III
+
+451
+De ese modo nos hallamos
+empeñaos en la partida;
+no hay que darla por perdida
+por dura que sea la suerte,
+ni que pensar en la muerte,
+sino en soportar la vida.
+
+452
+Se endurece el corazón,
+no teme peligro alguno;
+por encontrarlo oportuno
+allí juramos los dos:
+respetar tan sólo a Dios;
+de Dios abajo, a ninguno.
+
+453
+El mal es árbol que crece
+y que cortado retoña;
+la gente esperta o bisoña
+sufre de infinitos modos;
+la tierra es madre de todos,
+pero también da ponzoña.
+
+454
+Mas todo varón prudente
+sufre tranquilo sus males;
+yo siempre los hallo iguales
+en cualquier senda que elijo;
+la desgracia tiene hijos,
+aunque ella no tiene madre.
+
+455
+Y al que le toca la herencia,
+donde quiera halla su ruina:
+lo que la suerte destina
+no puede el hombre evitar,
+porque el cardo ha de pinchar
+es que nace con espinas.
+
+456
+Es el destino del pobre
+un continuo zafarrancho
+y pasa como el carancho,
+porque el mal nunca se sacia,
+si el viento de la desgracia
+vuela las pajas del rancho.
+
+457
+Mas quien manda los pesares
+manda también el consuelo:
+la luz que baja del cielo
+alumbra al más encumbrao,
+y hasta el pelo mas delgao
+hace su sombra en el suelo.
+
+458
+Pero por más que uno sufra
+un rigor que lo atormente,
+no debe bajar la frente
+nunca, por ningún motivo:
+el álamo es mas altivo
+y gime constantemente.
+
+459
+El indio pasa la vida
+robando o echao de panza;
+la única ley es la lanza
+a que se ha de someter:
+lo que le falta en saber
+lo suple con descondianza.
+
+460
+Fuera cosa de engarzarlo
+a un indio caritativo:
+es duro con el cautivo,
+le dan un trato horroroso;
+es astuto y receloso,
+es audaz y vengativo.
+
+461
+No hay que pedirle favor
+ni que aguardar tolerancia;
+movidos por su inorancia
+y de puro desconfiaos,
+nos pusieron separaos
+bajo sutil vigilancia.
+
+462
+No pude tener con Cruz
+ninguna conversación:
+no nos daban ocasión,
+nos trataban como ajenos
+como dos años, lo menos,
+duro esta separación.
+
+463
+Relatar nuestras penurias
+fuera alargar el asunto.
+Les diré sobre este punto
+que a los dos años recién
+nos hizo el cacique el bien
+de dejarnos vivir juntos.
+
+464
+Nos retiramos con Cruz
+a la orilla de un pajal;
+por no pasarlo tan mal
+hicimos como un bendito
+en el desierto infinito,
+con dos cueros de bagual.
+
+465
+Fuimos a esconder allí
+nuestra pobre situación,
+aliviando con la unión
+aquel duro cautiverio,
+tristes como un cementerio
+al toque de la oración.
+
+466
+Debe el hombre ser valiente
+si ha rodar se determina,
+primero, cuando camina;
+segundo, cuando descansa;
+pues en aquellas andanzas
+perece el que se acoquina.
+
+467
+Cuando es manso el ternerito
+en cualquier vaca se priende;
+el que es gaucho esto lo entiende
+y ha de entender si le digo
+que andábamos con mi amigo
+como pan que no se vende.
+
+468
+Guarecidos en el toldo
+charlábamos mano a mano:
+eramos dos veteranos
+mansos pa las sabandijas,
+arrumbaos como cubijas
+cuando calienta el verano.
+
+469
+El alimento no abunda
+por mas empeño que se haga;
+lo pasa uno como plaga,
+ejercitando la industria,
+y siempre como la nutria
+viviendo a la orilla del agua.
+
+470
+En semejante ejercicio
+se hace diestro el cazador:
+cai el piche engordador,
+cai el pájaro que trina;
+todo bicho que camina
+va parar al asador.
+
+471
+Pues allí a los cuatro vientos
+la persecución se lleva;
+nadie escapa de la leva
+y dende que el alba asoma
+ya recorre uno la loma,
+el bajo, el nido y la cueva.
+
+472
+El que vive de la caza
+a cualquier bicho se atreve,
+que pluma o cáscara lleve,
+pues, cuando la hambre se siente,
+el hombre le clava el diente
+a todo lo que se mueve.
+
+473
+En las sagradas alturas
+esta el Maistro principal
+que enseña a cada animal
+a procurarse el sustento,
+y le brinda el alimento
+a todo ser racional.
+
+474
+Y aves y bichos y pejes
+se mantienen de mil modos:
+pero el hombre en su acomodo
+es curioso de oservar:
+es el que sabe llorar
+y es el que los come a todos.
+
+
+IV
+
+475
+Antes de aclarar el día
+empieza el indio a aturdir
+la pampa con su rugir,
+y en alguna madrugada,
+sin que sintiéramos nada,
+se largaban a invadir.
+
+476
+Primero entierran las prendas
+en cuevas como peludos;
+y aquellos indios cerdudos,
+siempre llenos de recelos,
+en los caballos en pelos
+se vienen medio desnudos.
+
+477
+Para pegar el malón
+el mejor flete procuran;
+y como es su arma segura
+vienen con la lanza sola,
+y varios pares de bolas
+atados a la cintura.
+
+478
+De ese modo anda liviano
+no fatiga al mancarrón;
+es su espuela en el malón,
+después de bien afilao,
+un cuernito de venao
+que se amarra en el garrón.
+
+479
+El indio que tiene un pingo
+que se llega a distinguir,
+lo cuida hasta pa dormir;
+de ese cudao es esclavo.
+Se lo alquila a otro indio bravo
+cuando vienen a invadir.
+
+480
+Por vigilarlo no come
+y ni aun el sueño concilia:
+sólo en eso no hay desidia;
+de noche les asiguro,
+para tenerlo siguro
+le hace cerco la familia.
+
+481
+Por eso habrán visto ustedes,
+si en el caso se han hallao,
+y si no lo han observao,
+tenganló dende hoy presente,
+que todo pampa valiente
+anda siempre bien montao.
+
+482
+Marcha el indio a trote largo,
+paso que rinde y que dura;
+viene en dirección sigura
+y jamas a su capricho;
+no se les escapa bicho
+en la noche mas escura.
+
+483
+Caminan entre nieblas
+con un cerco bien formao;
+lo estrechan con gran cuidao
+y agarran, al aclarar,
+nanduces, gamas, venaos,
+cuanto a podido dentrar.
+
+484
+Su señal es un humito
+que se eleva muy arriba,
+y no hay quien no lo aperciba
+con esa vista que tienen;
+de todas partes se vienen
+a engrosar la comitiva.
+
+485
+Ansina se van juntando,
+hasta hacer esas riuniones
+que cain en las invasiones
+en número tan crecido;
+para formarla han salido
+de los últimos rincones.
+
+486
+Es guerra cruel la del indio
+porque viene como fiera;
+atropella donde quiera
+y de asolar no se cansa;
+de su pingo y de su lanza
+toda salvacion espera.
+
+487
+Debe atarse bien la faja
+quien a aguardarlo se atreva;
+siempre mala intención lleva,
+y, como tiene alma grande,
+no hay plegaria que lo ablande
+ni dolor que lo conmueva.
+
+488
+Odia de muerte al cristiano,
+hace guerra sin cuartel;
+para matar es sin yel,
+es fiero de condición;
+no golpia la compasión
+en el pecho del infiel.
+
+489
+Tiene la vista del águila,
+del leon la temeridá;
+en el desierto no habrá
+animal que él no lo entienda,
+ni fiera de que no aprienda
+un instinto de crueldá.
+
+490
+Es tenaz en su barbarie:
+no esperen verlo cambiar;
+el deseo de mejorar
+en su rudeza no cabe;
+el bárbaro solo sabe
+emborracharse y peliar.
+
+491
+El indio nunca ríe,
+y el pretenderlo es en vano,
+ni cuando festeja ufano
+el triunfo en sus correrías;
+la risa en sus alegrías
+le pertenece al cristiano.
+
+492
+Se cruzan en el desierto
+como un animal feroz;
+dan cada alarido atroz
+que hace erizar los cabellos;
+parece que a todos ellos
+los ha maldecido Dios.
+
+493
+Todo el peso del trabajo
+lo dejan a las mujeres:
+el indio es indio y no quiere
+apiar de su condición
+ha nacido indio ladrón
+y como indio ladrón muere.
+
+494
+El que envenenan sus armas
+les mandan sus hechiceras;
+y como ni a Dios veneran,
+nada a los pampa contiene:
+hasta los nombres que tienen
+son de animales y fieras.
+
+495
+Y son, ¡por Cristo bendito!,
+Los más desasiaos del mundo:
+esos indios vagabundos,
+con repunancia me acuerdo,
+viven lo mesmo que el cerdo
+en esos toldos inmundos.
+
+496
+Naides puede imaginar
+una miseria mayor;
+su pobreza causa horror;
+no sabe aquel indio bruto
+que la tiera no da fruto
+si no la riega el sudor.
+
+
+V
+
+497
+Aquel desierto se agita
+cuando la invasion regresa;
+llevan miles de cabezas
+de vacuno y yeguarizo;
+pa no afligirse es preciso
+tener bastante firmeza.
+
+498
+Aquello es un hervidero
+de pampas -un celemín-.
+Cuando riunen el botín
+juntando toda la hacienda,
+es cantidá tan tremenda
+que no alcanza a verse el fin.
+
+499
+Vuelven las chinas cargadas
+con las prendas en montón;
+aflige esa destrucción:
+acomodaos en cargueros
+llevan negocios enteros
+que han saquiao en la invasión.
+
+500
+Su pretensión es robar,
+no quedar en el pantano;
+viene a tierra de cristianos
+como juria del infierno;
+no se llevan al Gobierno
+poerque no lo hallan a mano.
+
+501
+Vuelven locos de contento
+cuando han venido a la fija;
+antes que ninguno elija
+empiezan con todo empeño,
+como dijo un santiagueño,
+a hacerse la repartija.
+
+502
+Se reparten el botín
+con igualdad, sin malicia;
+no muestra el indio codicia,
+ninguna falta comete:
+solo en eso se somete
+a una regla de justicia.
+
+503
+Y cada cual con lo suyo
+a sus toldos enderieza;
+luego la matanza empieza
+tan sin razon ni motivo,
+que no queda animal vivo
+de esos miles de cabezas.
+
+504
+Y satisfecho el salvaje
+de que su oficio ha cumplido,
+lo pasa por ahi tendido
+volviendo a su haraganiar,
+y entra la china a cueriar
+con un afán desmedido.
+
+505
+A veces a tierra adentro
+algunas puntas se llevan;
+pero hay pocos que se atrevan
+a hacer esas incursiones,
+porque otros indios ladrones
+les suelen pelar la breva.
+
+506
+Pero pienso que los pampas
+deben de ser los mas rudos;
+aunque andan medio desnudos
+ni su conveniencia entienden:
+por una vaca que venden
+quinientas matan al ñudo.
+
+507
+Estas cosas y otras piores
+las he visto muchos años;
+pero si yo no me engaño
+concluyó ese vandalaje,
+y esos bárbaros salvajes
+no podran hacer mas daño.
+
+508
+Las tribus están deshechas;
+los caciques más altivos
+estan muertos o cautivos,
+privaos de toda esperanza,
+y de la chusma y de la lanza,
+ya muy pocos quedan vivos.
+
+509
+Son salvajes por completo
+hasta pa su diversión,
+pues hacen una junción
+que naides se la imagina;
+recien le toca a la china
+el hacer su papelón.
+
+510
+Cuando el hombre es mas salvaje
+trata pior a la mujer:
+yo no sé que pueda haber
+sin ella dicha ni goce.
+¡Feliz el que la conoce
+y logra hacerse querer!
+
+511
+Todo el que entiende la vida
+busca a su lao los placeres;
+justo es que las considere
+el hombre de corazón;
+sólo los cobardes son
+valientes con sus mujeres.
+
+512
+Pa servir a un desgraciao
+pronta la mujer está;
+cuando en su camino va
+no hay peligro que le asuste;
+ni hay una a quien no le guste
+una obra de caridá.
+
+513
+No se allará una mujer
+a la que esto no le cuadre;
+yo alabo al Eterno Padre,
+no porque las hizo bellas,
+sino porque a todas ellas
+les dió corazón de madre.
+
+514
+Es piadosa y diligente
+y sufrida en los trabajos;
+tal vez su valor rebajo
+aunque la estimo bastante;
+mas los indios inorantes
+la trata al estropajo.
+
+515
+Echan la alma trabajando
+bajo el mas duro rigor;
+el marido es su señor,
+como tirano la manda,
+porque el indio no se ablanda
+ni siquiera en el amor.
+
+516
+No tiene cariño a naides
+ni sabe lo que es amar.
+¿Ni que se puede esperar
+de aquellos pechos de bronce?
+Yo los conocí al llegar
+y los calé dende entonces.
+
+517
+Mientras tiene qué comer
+permanece sosegao;
+yo que en sus toldos he estao
+y sus costumbres oservo,
+digo que es como aquel cuervo
+que no volvio del mandao.
+
+518
+Es para él como un juguete
+escupir un crucifijo;
+pienso que Dios los maldijo
+y ansina al ñudo desato:
+el indio, el cerdo y el gato
+redaman sangre del hijo.
+
+519
+Mas ya con cuentos de pampas
+no ocuparé su atención;
+debo pedirles perdón,
+pues sin querer me distraje;
+por hablar de esos salvajees
+me olvidé de la junción.
+
+520
+Hacen un cerco de lanzas,
+los indios quedan ajuera;
+dentra la china ligera
+como yeguada en la trilla,
+y empieza allí la cuadrilla
+a dar güeltas en la era.
+
+521
+A un lao están los caciques,
+capitanejos y el trompa
+tocando con toda pompa
+como un toque de fajina;
+adentro muere la china,
+sin que aquel circulo rompa.
+
+522
+Muchas veces se les oyen
+a las pobres los quejidos;
+mas son lamentos perdidos:
+al rededor del cercao,
+en el suelo están mamaos
+los indios dando alaridos.
+
+523
+Su canto es una palabra
+y de ahi no salen jamás;
+llevan todas el compás
+"Ioká-ioká" repitiendo;
+me parece estarlas viendo
+mas fieras que Satanás.
+
+524
+Al trote dentro del cerco,
+sudando, hambrientas, juriosas,
+desgreñadas y rotosas,
+de sol a sol se lo llevan:
+bailan aunque truene o llueva,
+cantando la mesma cosa.
+
+
+VI
+
+525
+el tiempo sigue su giro
+y nosotros, solitarios;
+de los indios sanguinarios
+no teníamos qué esperar;
+el que nos salvó al llegar
+era el más hospitalario.
+
+526
+Mostró noble corazón,
+cristiano anhelaba ser;
+la justicia es un deber,
+y sus méritos no callo:
+nos regaló unos caballos
+y a veces nos vino a ver.
+
+527
+A la voluntad de Dios
+ni con la intención resisto:
+el nos salvó...¡Ah, Cristo!,
+Muchas veces he deseado
+no nos hubiera salvado
+ni jamás haberlo visto.
+
+528
+Quien recibe beneficios
+jamás los debe olvidar;
+y al que tiene que rodar
+en su vida trabajosa,
+le pasan a veces cosas
+que son duras de pelar.
+
+529
+Voy dentrando poco a poco
+en lo triste del pasaje;
+cuando es amargo el brebaje
+el corazón no se alegra;
+dentró una virgüela negra
+que los diezmó.
+
+530
+Al sentir tal mortandá
+los indios, desesperaos,
+gritaban alborotados:
+"¡Cristiano echando gualicho!"
+No quedó en los toldos bicho
+que no salió redotao.
+
+531
+Sus remedios son secretos,
+los tienen las adivinan;
+no los conocen las chinas
+sino alguna ya muy vieja,
+y es la que lo aconseja
+con mil embustes, la indina.
+
+532
+Alli soporta el paciente
+las terribles curaciones,
+pues a golpes y estrujones
+son los remedios aquellos:
+los agarran de los cabellos
+y le arrancan los mechones.
+
+533
+Les hacen mil herejías
+que el presenciarlas da horror;
+brama el indio de dolor
+por los tormentos que pasa,
+y untandolo todo de grasa
+lo ponen a hervir al sol.
+
+534
+Y puesto allí boca arriba,
+alrededor le hacen fuego;
+una china biene luego
+y al oido le da de gritos;
+hay algunos tan malditos
+que sanan con este juego.
+
+535
+A otros les cuecen la boca
+aunque de dolores cruja;
+lo agarran allí y lo estrujan,
+labios le queman y diente
+con un güevo bien caliente
+de alguna gallina bruja.
+
+536
+Conoce el indio el peligro
+y pierde toda esperanza;
+si a escapárseles alcanza
+dispara como la liebre;
+le da delirios la fiebre,
+y ya le cain con la lanza.
+
+537
+Esas fiebres son terribles,
+y aunque de esto no disputo
+ni de saber me reputo,
+"Será", decíamos nosotros,
+"De tanta carne de potro
+como comen esos brutos".
+
+538
+Había un gringuito cautivo
+que siempre hablaba del barco,
+y lo augaron en un charco
+por causante de la peste;
+tenía los ojos celestes
+como potrillo zarco.
+
+539
+Que le dieran esa muerte
+dispuso una china vieja,
+y aunque se aflije y se queja,
+es inútil que resista:
+ponia el infeliz la vista
+como la pone la oveja.
+
+540
+Nosotros nos alejamos
+para no ver tanto estrago;
+Cruz sentia los amagos
+de la peste que reinaba,
+y la idea nos acosaba
+de volver a nuestros pagos.
+
+541
+Pero contra el plan mejor
+el destino se rebela.
+¡La sangre se me congela!
+El que nos había salvado
+cayó tambien atacado
+de la fiebre y la virgüela.
+
+542
+No podiamos dudar,
+al verlo en tal padecer,
+el fin que habia de tener,
+y Cruz que era tan humano:
+"Vamos", me dijo, "Paisano
+a cumplir con un deber".
+
+543
+Fuimos a estar a su lado
+para ayudarlo a curar;
+lo vinieron a buscar
+y hacerle como a los otros;
+lo defendimos nosotros,
+no lo dejamos lanciar.
+
+544
+Iba creciendo la plaga
+y la mortandá seguía.
+A su lado nos tenía
+cuiandolo con pacencia,
+pero acabó su esistencia
+al fin de unos pocos días.
+
+545
+El recuerdo me atormenta;
+se renueva mi pesar;
+me dan ganas de llorar;
+nada a mis penas igualo;
+Cruz también cayó muy malo
+ya para no levantar.
+
+546
+Todos pueden figurarse
+cuánto tuve que sufrir;
+yo no haciá sino gemir,
+y aumentaba mi aflición
+no saber una oración
+pa ayudarlo a bien morir.
+
+547
+Se le pasmó la virgüela,
+y el pobre estaba en un grito;
+me recomendó un hijito
+que en su pago había dejado:
+"Ha quedado abandonado".
+Me dijo, "Aquel pobrecito".
+
+548
+"Si vuelve, búsquemeló",
+me repetía a media voz;
+"En el mundo eramos dos,
+pues él ya no tiene madre;
+que sepa el fin de su padre
+y encomiende mi alma a Dios".
+
+549
+Lo apretaba contra el pecho,
+dominao por el dolor;
+era su pena mayor
+el morir allá entre infieles
+sufriendo dolores crueles
+entrego su alma al Criador.
+
+550
+De rodillas a su lado
+yo lo encomendé a Jesús.
+Faltó a mis ojos la luz,
+tuve un terrible desmayo;
+cai como herido del rayo
+cuando lo vi muerto a Cruz.
+
+
+VII
+
+551
+aquel bravo compañero
+en mis brazos espiró;
+hombre que tanto sirvio,
+varon que fue tan prudente,
+por humano y por valiente
+en el desierto murió.
+
+552
+Y yo, con mis propias manos,
+yo mesmo lo sepulté;
+a Dios por su alma rogué
+de dolor el pecho lleno,
+y humedeció aquel terreno
+el llanto que redamé.
+
+553
+Cumplí con mi obligación;
+no hay falta de que me acuse,
+ni deber de que se escuse,
+aunque de dolor sucumba:
+allá señala su tumba
+una cruz que yo le puse.
+
+554
+Andaba de toldo en toldo
+y todo me fastidiaba;
+el pesar me dominaba,
+y entregao al sentimiento
+se me hacía cada momento
+oir a Cruz que me llamaba.
+
+555
+Cual más, cual menos, los criollos
+saben lo que es amargura;
+en mi triste desventura
+no encontraba otro consuelo
+que ir a tirarme en el suelo,
+al lao de su sepultura.
+
+556
+Allí pasaba las horas
+sin haber naides conmigo
+teniendo a Dios por testigo,
+y mis pensamientos fijos
+en mi mujer y mis hijos,
+en mi pago y en mi amigo.
+
+557
+Privado de tantos bienes
+y perdido en tierra ajena,
+parece que se encadena
+el tiempo y que no pasara,
+como si el sol se parara
+a contemplar tanta pena.
+
+558
+Sin saber qué hacer de mí
+y entregao a mi aflición,
+estando allí una ocasión,
+del lao que venía el viento
+oi unos tristes lamentos
+que llamaron mi atención.
+
+559
+No son raros los quejidos
+en los toldos del salvaje,
+pues aquél es vandalaje
+donde no se arregla nada
+sino a lanza y puñalada,
+a bolazos y coraje.
+
+560
+No preciso juramento,
+deben creerle a Martín Fierro;
+he visto en este destierro
+a un salvaje que se irrita,
+degollar a una chinita
+y tirarsela a los perros.
+
+561
+He presenciado martirios,
+he visto muchas crueldades,
+crímenes y atrocidades
+que el cristiano no imagina,
+pues ni el indio ni la china
+sabe lo que son piedades.
+
+562
+Quise curiosiar los llantos
+que llegaban hasta mí;
+al punto me dirigí
+al lugar de ande venían:
+¡Me horroriza todavía
+el cuadro que descubrí!
+
+563
+Era una infeliz mujer
+que estaba de sangre llena,
+y como una madalena
+lloraba con toda gana;
+conocí que era cristiana
+y esto me dió mayor pena.
+
+564
+Cauteloso me acerqué
+a un indio que estaba al lao,
+porque el pampa es desconfiao
+siempre de todo cristiano,
+y vi que tenía en la mano
+el rebenque ensangrentao.
+
+
+VIII
+
+565
+Mas tarde supe por ella,
+de manera positiva,
+que dentró una comitiva
+de pampas a su partido,
+mataron a su marido
+y la llevaron cautiva.
+
+566
+En tan dura servidumbre
+hacían dos años que estaba;
+un hijito que llevaba
+a su lado lo tenía.
+La china la aborrecía
+tratandola como esclava.
+
+567
+Deseaba para escaparse
+hacer una tentativa,
+pues a la infeliz cautiva
+naides la va a redimir,
+y allí tiene que sufrir
+el tormento mientras viva.
+
+568
+Aquella china perversa,
+dende el punto que llegó,
+crueldá y orgullo mostró
+porque el indio era valiente:
+usaba un collar de dientes
+de cristianos que él mató.
+
+569
+La mandaba a trabajar,
+poniendo cerca a su hijito
+tiritando y dando gritos,
+por la mañana temprano,
+atado de pies y manos
+lo mesmo que un corderito.
+
+570
+Ansí le imponía tarea
+de juntar leña y sembrar
+viendo a su hijito llorar,
+y hasta que no terminaba,
+la china no la dejaba
+que le diera de mamar.
+
+571
+Cuando no tenían trabajo
+la emprestaban a otra china,
+"Naides", decía, "se imagina,
+ni es capaz de presumir
+cuanto tiene que sufrir
+la infeliz que esta cautiva".
+
+572
+Si ven crecido a su hijito,
+como de piedá no entienden
+y a suplicas nunca atienden,
+cuando no es éste es el otro,
+se lo quitan y lo venden
+o lo cambian por un potro.
+
+573
+En la crianza de los suyos
+son bárbaros por demás.
+No lo habia visto jamás:
+en una tabla los atan,
+los crian así, y les achatan
+la cabeza por detrás.
+
+574
+Aunque esto parezca extraño,
+ninguno lo ponga en duda:
+entre aquella gente ruda,
+en su bárbara tropeza,
+es gala que la cabeza
+se les forme puntiaguda.
+
+575
+Aquella china malvada,
+que tanto la aborrecía,
+empezó a decir un día,
+porque falleció una hermana,
+que sin duda la cristiana
+le había echado brujería.
+
+576
+El indio la sacó al campo
+y la empezó a amenazar
+que le había de confesar
+si la brujería era cierta;
+o que la iba a castigar
+hasta que quedara muerta.
+
+577
+Llora la pobre afligida,
+pero el indio, en su rigor,
+le arrebató con juror
+al hijo de entre sus brazos,
+y del primer rebencazo
+la hizo crujir de dolor.
+
+578
+Que aquel salvaje tan cruel
+azotándola seguía;
+más y más se enfurecía
+cuanto mas la castigaba
+y la infeliz se atajaba
+los golpes como podía.
+
+579
+Que le gritó muy furioso
+"Confechando no querés;"
+la dió vuelta de un revés
+y, por colmar su amargura,
+a su tierna criatura
+se la desgolló a los pies.
+
+580
+"Es increible" me decía,
+"Que tanta fiereza esista;
+no habrá madre que resista;
+aquel salvaje inclemente
+cometió tranquilamente
+aquel crimen a mi vista."
+
+581
+Esos horrores tremendos
+no los inventa el cristiano:
+"Es bárbaro inhumano"
+-sollozando me lo dijo-
+"Me amarró luego las manos
+con las tripitas de mi hijo."
+
+
+IX
+
+582
+de ella fueron los lamentos
+que en mi soledá escuché:
+en cuanto al punto llegué,
+quedé enterado de todo:
+al mirarla de aquel modo
+ni un instante tutubié.
+
+583
+Toda cubierta de sangre
+aquella infeliz cautiva,
+tenia dende abajo arriba
+las marcas de los lazazos:
+sus trapos echos pedazos
+mostraban la carne viva.
+
+584
+Alzó los ojos al cielo
+en sus lágrimas bañada;
+tenía las manos atadas;
+su tormento estaba claro;
+y me clavó una mirada
+como pidiéndome amparo.
+
+585
+Yo no sé lo que pasó
+en mi pecho en ese instante;
+estaba el indio arrognte
+con una cara feroz:
+para entendernos los dos
+la mirada fué bastante.
+
+586
+Pegó un brinco como gato
+y me ganó la distancia,
+aprovechó esa distancia
+como fiera cazadora:
+desató las boliadoras
+y aguardó con vigilancia.
+
+587
+Aunque yo iba de curioso
+y no por buscar contienda,
+al pingo le até la rienda,
+eché mano dende luego
+a éste que no yerra juego,
+y ya se armó la tremenda.
+
+588
+El peligro en que me hallaba
+al momento conocí;
+nos mantuvimos ansí,
+me miraba y lo miraba:
+yo al indio le desconfiaba,
+y él me descofiaba a mí.
+
+589
+Se debe ser precavido
+cuando el indio se agazape:
+en esa postura el tape
+vale por cuatro o por cinco;
+como el tigre es para el brinco
+y fácil que a uno lo atrape.
+
+590
+Peligro era atropellar
+y era peligro el juir,
+y más peligro seguir
+esperando de ese modo,
+pues otros podían venir
+y carniarme allí entre todos.
+
+591
+A juerza de precaución
+muchas veces he salvado,
+pues es un trance apurado
+es mortal cualquier descuido;
+si Cruz hubiera vivido
+no habría tenido cuidado.
+
+592
+Un hombre junto con otro
+en valor y en juerza crece;
+el temor desaparece;
+escapa de cualquier trampa;
+entre dos, no digo a un pampa,
+a la tribu, si se ofrece.
+
+593
+En tamaña incertidumbre,
+en trance tan apurado,
+no podía por de contado
+escarparme de otra suerte,
+sino dando al indio muerte
+o quedando alli estirado.
+
+594
+Y como el tiempo pasaba
+y aquel asunto me urgía,
+viendo que él no se movía
+me juí medio de soslayo
+como a agarrarle el caballo,
+a ver si se me venía.
+
+595
+Ansí jué, no aguardó más
+y me atropelló el salvaje;
+es preciso que se ataje
+quien con el indio pelee;
+el miedo de verse a pie
+aumentaba su coraje.
+
+596
+En la dentrada no más
+me largó un par de bolazos;
+uno me tocó en un brazo;
+si me da bien, me lo quiebra,
+pues las bolas son de piedra
+y vienen como balazo.
+
+597
+A la primer puñalada
+el pampa se hizo un ovillo;
+era el salvaje mas pillo
+que he visto en mis correrías,
+y, a más de las picardías,
+arisco para el cuchillo.
+
+598
+Las bolas las manejaba
+aquel bruto con destreza;
+las recogía con presteza
+y me las volvía a largar,
+haciéndomelas silbar
+arriba de la cabeza.
+
+599
+Aquel indio, como todos,
+era cauteloso... ¡Ahijuna!
+Ahí me valió la fortuna
+de que peliando se apotra
+me amenazaba con una
+y me largaba con otra.
+
+600
+Me sucedió una desgracia
+en aquel percance amargo;
+en momento que lo cargo
+y que él reculando va,
+me enredé en el chiripá
+y caí tirao largo a largo.
+
+601
+Ni pa enconmendarme a Dios
+tiempo el salvaje me dió;
+cuanto en el suelo me vió
+me saltó con ligereza:
+juntito de la cabeza
+el bolazo retumbó.
+
+602
+Ni por respeto al cuchillo
+dejó el indio de apretarme;
+allí pretende ultimarme
+sin dejarme levantar,
+y no me daba lugar
+ni siquiera a enderezarme.
+
+603
+De balde quiero moverme:
+aquel indio no me suelta.
+Como persona resuelta
+toda mi juerza ejecuto,
+pero abajo de aquel bruto
+no podía ni darme güelta.
+
+       *       *       *       *       *
+
+604
+¡Bendito, Dios poderoso,
+quien te puede comprender!
+Cuando a una débil mujer
+le diste en esa ocación
+la juerza que en un varón
+tal vez no pudiera haber.
+
+605
+Esa infeliz tan llorosa,
+viendo el peligro se anima;
+como una flecha se arrima
+y olvidando su aflición,
+le pegó al indio un tirón
+que me lo sacó de encima.
+
+606
+Ausilio tan generoso
+me libertó del apuro;
+si no es ella, de siguro
+que el indio me sacrifica;
+y mi valor se duplica
+con un ejemplo tan puro.
+
+607
+En cuanto me enderecé
+nos volvimos a topar,
+no se podía descansar
+y me chorriaba el sudor:
+en un apuro mayor
+jamás me he vuelto a encontrar.
+
+608
+Tampoco yo le daba alce
+como deben suponer;
+se había aumentao mi quehacer
+para impedir que el brutazo
+le pegar algún bolazo
+de rabia a aquella mujer.
+
+609
+La bola en manos del indio
+es terrible y muy ligera;
+hace de ella lo que quiera
+saltando como una cabra.
+Mudos, sin decir palabra,
+peliábamos comos fieras.
+
+610
+Aquel duelo en el desierto
+nunca jamás se me olvida;
+iba jugando la vida
+con tan terrible enemigo,
+teniendo allí de testigo
+a una mujer afligida.
+
+611
+Cuanto él más se enfurecía
+yo más me empiezo a calmar;
+mientras no logra matar
+el indio no se desfoga;
+al fin le corté una soga
+y lo empecé a aventajar.
+
+612
+Me hizo sonar las costillas
+de un bolazo aquel maldito;
+y al tiempo que le di un grito
+y le dentro como bala,
+pisa el indio, y se refala
+en el cuerpo del chiquito.
+
+613
+Para explicar el misterio
+es muy escasa mi cencia:
+lo castigó, en mi conciencia,
+Su Divina Majestá;
+donde no hay casualidá
+suele estar la Providencia.
+
+614
+En cuanto trastabilló
+más de firme lo cargué,
+y aunque de nuevo hizo pie
+lo perdió aquella pisada;
+pues en esa atropellada
+en dos partes lo corté.
+
+615
+Al sentirse lastimao
+se puso medio afligido,
+pero era indio decidido,
+su valor no se aquebranta;
+le salían de la garganta
+como una especie de aullidos.
+
+616
+Lastimao en la cabeza,
+la sangre lo enceguecía;
+de otra herida le salía
+haciendo un charco ande estaba,
+con los pies chapaliaba
+sin aflojar todavía.
+
+617
+Tres figuras imponentes
+formábamos aquel terno:
+ella en su dolor materno,
+yo con la lengua dejuera,
+y el salvaje como fiera
+disparada del infierno.
+
+618
+Iba conociendo el indio
+que tocaban a degüello:
+se le erizaba el cabello
+y los ojos revolvía;
+los labios se le perdían
+cuando iba a tomar resuello.
+
+619
+En una nueva dentrada
+le pegué un golpe sentido,
+y al verse ya malherido,
+aquel indio furibundo
+lanzó un terrible alrido
+que retumbó como un ruido
+si se sacudiera el mundo.
+
+620
+Al fin de tanto lidiar,
+en el cuchillo lo alcé,
+en peso lo levanté
+aquel hijo del desierto;
+ensartado lo llevé,
+y allá recién lo largué
+cuando ya lo sentí muerto.
+
+621
+Me persiné dando gracias
+de haber salvado la vida;
+aquella pobre afligida,
+de rodillas en el suelo,
+alzó sus ojos al cielo
+sollozando dolorida.
+
+622
+Me hinqué también a su lado
+a dar gracias a mi Santo;
+en su dolor y quebranto
+ella, a la Madre de Dios,
+le pide en su triste llanto
+que nos ampare a los dos.
+
+623
+Se alzó con pausa de leona
+cuando acabó de implorar,
+y, sin dejar de llorar,
+envolvió en uno trapitos
+los pedazos de su hijito,
+que yo le ayudé a juntar.
+
+
+X
+
+624
+Dende ese punto era juerza
+abandonar el desierto,
+pues me hubieran descubierto,
+y aunque lo maté en pelea,
+de fijo que me lancean
+por vengar al indio muerto.
+
+625
+A la afligida cautiva
+mi caballo le ofrecí:
+era un pingo que adquirí,
+y, donde quiera que estaba,
+en cuanto yo lo silbaba
+venia a refregarse en mí.
+
+626
+Yo me lo senté al del pampa;
+era un escuro tapao
+(cuando me hallo bien montao
+de mis casillas me salgo),
+y era un pingo como galgo
+que sabía correr boliao.
+
+627
+Para correr en el campo
+no hallaba ningun tropiezo;
+los ejercitan en eso,
+y los ponen como luz,
+de dentrarle a un aveztruz
+y boliar bajo el pescuezo.
+
+628
+El pampa educa al caballo
+como pa un etrevero:
+como rayo es de ligero
+en cuando el indio lo toca,
+y como trompo en la boca
+da gueltas sobre un cuero.
+
+629
+Lo varea en la madrugada
+(jamas falta a este deber),
+luego lo enseña a correr
+entre fangos y guadales:
+asina esos animales
+es cuanto se puede ver.
+
+630
+En el caballo de un pampa
+no hay peligro de rodar,
+¡jue pucha!, y pa disparar
+es pingo que no se cansa;
+con prolijidad lo amansa
+sin dejarlo corcoviar.
+
+631
+Pa quitarle las cosquillas
+con cuidao lo manosea;
+horas enteras emplea,
+y, por fin, sólo lo deja
+cuando agacha las orejas
+y ya el potro ni cocea.
+
+632
+Jamás le sacude un golpe,
+porque lo trata al bagual
+con paciencia sin igual
+-al domarlo no le pega-,
+hasta que al fin se le entrega
+ya dócil el animal.
+
+633
+Y aunque yo sobre los bastos
+me sé sacudir el polvo,
+a esa costumbre me amoldo:
+con pacencia lo manejan
+y al día siguiente lo dejan
+rienda arriba junto al toldo.
+
+634
+Ansí todo el que procure
+tener un pingo modelo,
+lo ha de cuidar con desvelo
+y debe impedir también
+el que de golpes le den
+o tironeen en el suelo.
+
+635
+Muchos quieren dominarlo
+con el rigor y el azote,
+y, si ven al chafalote
+que tiene trazas de malo,
+lo embraman en algún palo
+hasta que se descogote.
+
+636
+Todos se vuelven pretestos
+y güeltas para ensillarlo;
+dicen que es por quebrantarlo,
+mas compriende cualquier bobo
+que es de miedo del corcovo,
+y no quieren confesarlo.
+
+637
+El animal yeguarizo
+-perdónenme esta alvertencia-
+es de mucha conocencia
+y tiene mucho sentido;
+es animal consentido:
+lo cautiva la pacencia.
+
+538
+Aventaja a los demás
+el que estas cosas entienda;
+es bueno que el hombre aprienda,
+pues hay pocos domadores
+y muchos frangoyadores
+que andan de bozal y, rienda.
+
+639
+Me vine, como les digo,
+trayendo esa compañera;
+marchamos la noche entera,
+haciendo nuestro camino,
+sin más rumbo que el destino
+que nos llevara ande quiera.
+
+640
+Al muerto, en un pajonal
+había tratao de enterrarlo,
+y después de maniobrarlo
+lo tapé bien con las pajas,
+para llevar de ventaja
+lo que emplearan en hallarlo.
+
+641
+En notando nuestra ausiencia
+nos habían de perseguir,
+y, al decidirme a venir,
+con todo mi corazón
+hice la resolución
+de peliar hasta morir.
+
+642
+Es un peligro muy serio
+cruzar juyendo el desierto:
+muchísimos de hambre han muerto,
+pues en tal desasosiego
+no se puede ni hacer juego,
+para no ser descubierto.
+
+643
+Sólo el albitrio del hombre
+puede ayudarlo a salvar:
+no hay ausilio que esperar,
+sólo de Dios hay amparo;
+en el desierto es muy raro
+que uno se pueda escapar.
+
+644
+¡Todo es cielo y horizonte
+en inmenso campo verde!
+¡Pobre de aquel que se pierde
+o que su rumbo estravea!
+Si alguien cruzarlo desea,
+este consejo recuerde:
+
+645
+marque su rumbo de día
+con toda fidelidá;
+marche con puntualidá,
+sigiéndoló con fijeza,
+y, si duerme, la cabeza
+ponga para el lao que va.
+
+646
+Oserve con todo esmero
+adonde el sol aparece;
+si hay ñeblina y le entorpece
+y no lo puede oservar,
+guárdese de caminar,
+pues quien se pierde perece.
+
+647
+Dios le dió istintos sutiles
+a toditos los mortales;
+el hombre es uno de tales,
+y en las llanuras aquelas,
+lo guían el sol, las estrellas,
+el viento y los animales.
+
+648
+Para ocultarnos de día
+a la vista del salvaje,
+ganábamos un paraje
+en que algún abrigo hubiera,
+a esperar que anocheciera
+para seguir nuestro viaje.
+
+649
+Penurias de toda clase
+y miserias padecimos:
+varias veces no comimos
+o comimos carne cruda,
+y en otras, no tengan duda,
+con raices nos mantuvimos.
+
+650
+Después de mucho sufrir
+tan peligrosa inquietú,
+alcanzamos con salú
+a divisar una sierra,
+y al fin pisamos la tierra
+en donde crece el ombú.
+
+651
+Nueva pena sintió el pecho
+por Cruz, en aquel paraje,
+y en humilde vasallaje
+a la majestá infinita,
+besé esta tierra bendita,
+que ya no pisa el salvaje.
+
+652
+Al fin la misericordia
+de Dios nos quiso amparar;
+es preciso soportar
+los trabajos con constancia:
+alcanzamos a una estancia
+después de tanto penar.
+
+653
+¡Ah! mesmo me despedí
+de mi infeliz compañera:
+"Me voy", le dije, "ande quiera,
+aunque me agarre el Gobierno,
+pues, infierno por infierno
+prefiero el de la frontera."
+
+654
+Concluyo esta relación,
+ya no puedo continuar;
+permítanmé descansar:
+estan mis hijos presentes,
+y yo ansioso porque cuenten
+lo que tengan que contar.
+
+
+XI
+
+655
+Y mientras que tomo un trago
+pa refrescar el garguero,
+y mientras tiempla el muchacho
+y prepara su estrumento,
+les contaré de qué modo
+tuvo lugar el encuentro.
+Me acerqué a algunas estancias
+por saber algo de cierto,
+creyendo que en tantos años
+esto se hubiera compuesto;
+pero cuanto saqué en limpio
+jué que estábamos lo mesmo.
+Ansí, me dejaba andar
+haciéndome el chancho rengo,
+porque no me convenía
+revolver el avispero;
+pues no inorarán ustedes
+que en cuentas con el gobierno
+tarde o temprano lo llaman
+al pobre a hacer el arreglo.
+Pero al fin tuve la suerte
+de hallar un amigo viejo
+que de todo me informó,
+y por él supe al momento
+que el Juez que me perseguía
+hacía tiempo que era muerto:
+por culpa suya he pasado
+diez años de sufrimiento
+y no son pocos diez años
+para quien ya llega a viejo.
+Y los he pasado ansí,
+si en mi cuenta no me yerro:
+tres años en la frontera,
+dos como gaucho matrero,
+y cinco allá entre los indios
+hacen los diez como yo cuento.
+Me dijo, a más, ese amigo
+que anduviera sin recelo,
+que todo estaba tranquilo,
+que no perseguía el gobierno,
+que ya naides se acordaba
+de la muerte del moreno,
+aunque si yo lo maté
+mucha culpa tuvo el negro.
+Estuve un poco imprudente,
+puede ser, yo lo confieso,
+pero el me precipitó,
+porque me cortó primero,
+y a más me cortó la cara,
+que es un asunto muy serio.
+Me asiguró el mesmo amigo
+que ya no había ni el recuerdo
+de aquel que en la pulpería
+lo dejé mostrando el sebo.
+El de engreido, me buscó:
+yo ninguna culpa tengo;
+el mismo vino a peliarme,
+y tal vez me hubiera muerto
+si le tengo más confianza
+o soy un poco más lerdo.
+Fue suya toda la culpa
+porque ocasionó el suceso.
+Que ya no hablaban tampoco,
+me lo dijo muy de cierto,
+de cuando con la partida
+llegué a tener el encuentro.
+Esa vez me defendí
+como estaba en mi derecho,
+porque fueron a prenderme
+de noche y en campo abierto:
+se me acercaron con armas,
+y, sin darme voz de preso,
+me amenazaron a gritos
+de un modo que daba miedo,
+que iban a arreglar mis cuentas,
+tratándome de matrero:
+y no era el jefe el que hablaba
+sino un cualquiera de entre ellos,
+y ése, me parece a mí
+no es modo de hacer arreglos,
+ni con el que es inocente,
+ni con el culpable menos.
+-Con semejantes noticias
+yo me puse muy contento
+y me presenté ande quiera
+como otros pueden hacerlo.
+De mis hijos he encontrado
+sólo a dos hasta el momento,
+y de ese encuentro feliz
+le doy las gracias al Cielo.
+A todos cuantos hablaba
+les preguntaba por ellos,
+mas no me da ninguno
+razón de su paradero.
+Casualmente, el otro día
+llegó a mi conocimiento
+de una carrera muy grande
+entre varios estancieros,
+y juí como uno de tantos,
+aunque no llevaba un medio.
+No faltaban, ya se entiende,
+en aquel gauchaje inmenso,
+muchos que ya conocían
+la historia de Martín Fierro;
+y allí estaban los muchachos
+cuidando unos parejeros.
+Cuando me oyeron nombrar
+se vinieron al momento,
+diciéndome quiénes eran
+aunque no me conocieron,
+porque venía muy aindiao
+y me encontraban muy viejo.
+La junción de los abrazos
+de los llantos y los besos
+se deja pa las mujeres,
+como que entienden el juego.
+Pero el hombre, que compriende
+que todos hacen lo mesmo,
+en público canta y baila,
+abraza y llora en secreto.
+Lo único que me han contado
+es que mi mujer a muerto;
+que en procuras de un muchacho
+se jue la infeliz al pueblo,
+donde infinitas miserias
+habrá sufrido, por cierto;
+que, por fin, a un hospital
+jué a parar medio muriendo,
+y en ese abismo de males
+falleció al muy poco tiempo.
+Les juro que de esa pérdida
+jamás he de hallar consuelo,
+muchas lágrimas me cuesta
+dende que supe el suceso.
+Mas dejemos cosas tristes
+aunque alegrías no tengo;
+me parece que el muchacho
+ha templao y está dispuesto
+vamos a ver qué tal lo hace
+y a juzgar su desempeño.
+Ustedes no lo conocen
+yo tengo confianza en ellos,
+no porque lleven mi sangre
+-eso juera de lo menos-,
+sino porque dende chicos
+han vivido padeciendo.
+Los dos son aficionados;
+les gusta jugar con juego,
+vamos a verlos correr:
+son cojos... hijos de rengo.
+
+
+EL HIJO MAYOR DE MARTÍN FIERRO
+
+
+XII
+
+LA PENITENCIARIA
+
+656
+aunque el gajo se parece
+al árbol de donde sale,
+solía decirlo mi madre,
+y en su razón estoy fijo:
+"Jamás puede hablar el hijo
+con la autoridad del padre".
+
+657
+Recordarán que quedamos
+sin tener donde abrigarnos,
+ni ramada ande ganarnos,
+ni rincón ande meternos,
+ni camisa que ponernos.
+Ni poncho con que taparnos.
+
+658
+Dichoso aquel que no sabe
+lo que es vivir sin amparo;
+yo con verdá les declaro,
+aunque es por demás sabido,
+dende chiquito he vivido
+en el mayor desmparo.
+
+659
+No le mermam el rigor
+los mesmos que le socorren;
+tal vez porque no se borren
+los decretos del destino,
+de todas parten lo corren
+como ternero dañino.
+
+660
+Y vive como los bichos
+buscando alguna rendija;
+el güerfano es sabandija
+que no encuentra compasión,
+y el que anda sin dirección
+es guitarra sin clavija.
+
+661
+Sentiré que cuanto digo
+a algún oyente le cuadre.
+Ni casa tenía, ni madre,
+ni parentela, ni hermanos;
+y todos limpian sus manos
+en el que vive sin padre.
+
+662
+Lo cruza éste de un lazazo
+lo abomba aquél de un moquete,
+otro le busca el cachete,
+y, entre tanto soportar,
+suele a veces no encontrar
+ni quien le arroje un zoquete.
+
+663
+Si lo recogen, lo tratan
+con la mayor rigidez;
+piensan que es mucho tal vez,
+cuando ya muestra el pellejo,
+si le dan un trapo viejo
+pa cubrir su desnudez.
+
+664
+Me crié, pues, como les digo,
+desnudo a veces y hambriento;
+me ganaba mi sustento,
+y ansí los años pasaban;
+al ser hombre me esperaban
+otra clase de tormentos.
+
+665
+Pido a todos que no olviden
+lo que les voy a decir;
+en la escuela del sufrir
+he tomado mis leciones,
+y hecho muchas reflesiones
+dende que empece a vivir.
+
+666
+Si alguna falta cometo
+la motiva mi inorancia;
+no vengo con arrogancia
+y les diré, en conclusión,
+que trabajando de pión
+me encontraba en una estancia.
+
+667
+El que manda siempre puede
+hacerle al pobre un calvario;
+a un vecino propietario
+un boyero le mataron,
+y aunque a mí me lo achacaron
+salió cierto en el sumario.
+
+668
+Piensen los hombres honrados
+en la vergüenza y la pena
+de que tendría el alma llena
+al verme, ya tan temprano,
+igual a los que sus manos
+con el crimen envenenan.
+
+669
+Declararon otros dos
+sobre el caso del dijunto,
+mas no se aclaró el asunto,
+y el Juez, por darlas de listo,
+"Amarrados como un Cristo",
+nos dijo, "irán todos juntos".
+
+670
+"A la justicia ordinaria
+voy a mandar a los tres."
+Tenia razón aquel Juez,
+y cuantos ansí amenacen;
+ordinaria... es como la hacen:
+lo he conocido después.
+
+671
+Nos remitió, como digo,
+a esa justicia ordinaria,
+y juimos con la sumaria
+a esa cárcel de malevos
+que, por un bautismo nuevo,
+le llaman penicentiaria.
+
+672
+El porqué tiene ese nombre
+naides me lo dijo a mí,
+mas yo me lo esplico ansí:
+le diran penitenciaria
+por la penitencia diaria,
+que se sufre estando allí.
+
+673
+Criollo que cai en desgracia
+tiene que sufrir un poco;
+naides lo ampara tampoco
+si no cuenta con recursos.
+El gringo es de más discurso:
+cuando mata, se hace el loco.
+
+674
+No sé el tiempo que corrió
+en aquella sepoltura;
+si de ajuera no lo apuran,
+el asunto va con pausa;
+tienen la presa sigura
+y dejan dormir la causa.
+
+675
+Inora el preso a que lado
+se inclinará la balanza,
+pero es tanta la tardanza
+que yo les digo por mí:
+el hombre que dentre allí
+deje ajuera la esperanza.
+
+676
+Sin perfecionar las leyes
+perfecionan el rigor;
+sospecho que el inventor
+habrá sido algún maldito:
+por grande que sea un delito,
+aquella pena es mayor.
+
+677
+Eso es para quebrantar
+el corazón mas altivo;
+los llaveros son pasivos,
+pero más secos y duros
+tal vez que los mesmos muros
+en que uno gime cautivo.
+
+678
+No es en grillo ni en cadenas
+en lo que usté penará,
+sino en una soledá
+y un silencio tan projundo,
+que parece que en el mundo
+es el único que está.
+
+679
+El más altivo varón
+y de cormillo gastao
+allí se verá agobiao
+y su corazón marchito,
+al encontrarse encerrao
+a solas con su delito.
+
+680
+En esa cárcel no hay toros,
+allí todos son corderos;
+no puede el más altanero,
+al verse entre aquellas rejas,
+sino amujar las orejas
+y sufrir callao su encierro.
+
+681
+Y digo a cuantos inoran
+el rigor de aquellas penas,
+yo, que sufrí las cadenas
+del destino y su inclemencia:
+que aprovechen la esperencia
+del mal en cabeza ajena.
+
+682
+¡Ay! Madres, las que dirigen
+al hijo de sus entrañas,
+no piensen que las engaña,
+ni que les habla un falsario
+lo que es el ser presidiario
+no lo sabe la campaña.
+
+683
+Hijas, esposas, hermanas,
+cuantas quieren a un varón,
+díganles que esa prisión
+es un infierno temido,
+donde no se oye más ruido
+que el latir del corazón.
+
+684
+Alla el día no tiene sol,
+la noche no tiene estrellas;
+sin que le valgan querellas
+encerrao lo purifican,
+y sus lágrimas salpican
+en las paredes aquellas.
+
+685
+En soledá tan terrible
+de su pecho oye el latido;
+lo sé, porque lo he sufrido,
+y, creameló el aulitorio,
+tal vez en el purgatorio
+las almas hagan más ruido.
+
+686
+Cuentan esas horas eternas
+para más atormentarse;
+su lágrima al redamarse
+calcula, en sus afliciones,
+contando sus pulsaciones,
+lo que dilata en secarse.
+
+687
+Allí se amansa el más bravo,
+allí se duebla el más juerte;
+el silencio es de tal suerte
+que, cuando llegue a venir,
+hasta se le han de sentir
+las pisadas a la muerte.
+
+688
+Adentro mesmo del hombre
+se hace una revolución:
+metido en esa prisión,
+de tanto no mirar nada,
+le nace y queda grabada
+la idea de la perfección.
+
+689
+En mi madre, en mis hermanos,
+en todos pensaba yo;
+al hombre que alli dentró
+de memoria más ingrata,
+fielmente se le retrata
+todo cuanto ajuera vió.
+
+690
+Aquel que ha vivido libre
+de cruzar por donde quiera,
+se aflige y se desespera
+de encontrarse allí cautivo:
+es un tormento muy vivo
+que abate la alma más fiera.
+
+691
+En esa estrecha prisión,
+sin poderme conformar,
+no cesaba de esclamar:
+¡qué diera yo por tener
+un caballo en que montar
+y una pampa en que correr!
+
+692
+En un lamento constante
+se encuentra siempre embretao;
+el castigo han inventao
+de encerrarlo en las tinieblas,
+y alli esta como amarrao
+a un Fierro que no se duebla.
+
+693
+No hay un pensamiento triste
+que al preso no lo atormente;
+baja un dolor permanente
+agacha al fin la cabeza,
+porque siempre es la tristeza
+hermana de un mal presente.
+
+694
+Vierten lágrimas sus ojos,
+pero su pena no alivia;
+en esa constante lidia
+sin un momento de calma,
+contempla con los del alma
+felicidades que envidia.
+
+695
+Ningún consuelo penetra
+detrás de aquellas murallas;
+el varón de mas agallas,
+aunque más duro que un perno,
+metido en aquel infierno
+sufre, gime, llora y calla.
+
+696
+De juror el corazón
+se le quiere reventar,
+pero no hay sino aguantar
+aunque sosiego no alcance.
+¡Dichoso, en tan duro trance,
+aquel que sabe rezar!
+
+697
+¡Dirige a Dios su plegaria
+el que sabe una oración!
+En esa tribulación
+gime olvidado del mundo,
+y el dolor es más projundo
+cuando no halla compasión.
+698
+En tan crueles pesadumbres,
+en tan duro padecer,
+empezaba a encanecer
+después de muy pocos meses;
+alli lamenté mil veces
+no haber aprendido a leer.
+
+699
+Viene primero el juror,
+después la melancolia;
+en mi angustia no tenía
+otro alivio ni consuelo,
+sino regar aquel suelo
+con lágrimas noche y día.
+
+700
+¡A visitar otros presos
+sus familias solían ir!
+Naides me visitó a mí
+mientras estuve encerrado.
+¡Quien iba a costiarse allí
+a ver a un desamparado!
+
+701
+¡Bendito sea el carcelero
+que tiene buen corazón!
+Yo sé que esta bendición
+pocos pueden alcanzarla,
+pues si tienen compasión
+su deber es ocultarla.
+
+702
+Jamás mi lengua podrá
+espresar cuanto he sufrido;
+en ese encierro metido,
+llaves, paredes, cerrojos
+se graban tanto en los ojos
+que uno los ve hasta dormido.
+
+       *       *       *       *       *
+
+703
+El mate no se permite;
+no le permiten hablar;
+no le permiten cantar
+para aliviar su dolor,
+y hasta el terrible rigor
+de no dejarlo fumar.
+
+704
+La justicia es muy severa;
+suele rayar en crueldá:
+sufre el pobre que allí está
+calenturas y delirios,
+pues no esiste pior martirio
+que esa eterna soledá.
+
+705
+Conversamos con las rejas
+por solo el gusto de hablar,
+pero nos mandan callar
+y es preciso conformarnos;
+pues no se debe irritar
+a quien puede castigarnos.
+
+706
+Sin poder decir palabra
+sufre en silencio sus males,
+y uno en condiciones tales,
+se convierte en animal,
+privao del don principal
+que Dios hizo a los mortales.
+
+707
+Yo no alcanzo a comprender
+por que motivo será
+que el preso privado está
+de los dones más preciosos
+que el justo Dios bondadoso
+otorgó a la humanidá.
+
+708
+Pues que de todos los bienes,
+en mi inorancia lo infiero,
+que le dió al hombre altanero
+su Divina Majestá,
+la palabra es el primero,
+el segundo es la amistá.
+
+709
+Y es muy severa la ley
+que, por un crimen o un vicio,
+somete al hombre a un suplicio
+el más tremendo y atroz,
+privado de un beneficio
+que ha recebido de Dios.
+
+710
+La soledá causa espanto;
+el silencio causa horror;
+ese continuo terror
+es el tormento más duro,
+y en un presidio siguro
+está demás tal rigor.
+
+711
+Inora uno si de allí
+saldrá pa la sepoltura;
+el que se halla en desventura
+busca a su lao otro ser,
+pues siempre es güeno tener
+companeros de amargura.
+
+712
+Otro más sabio podrá
+encontrar razón mejor;
+yo no soy rebuscador,
+y ésta me sirve de luz:
+se los dieron al Señor
+al clavarlo en una cruz.
+
+713
+Y en las projundas tinieblas
+en que mi razón esiste,
+mi corazón se resiste
+a ese tormento sin nombre,
+pues el honbre alegra al hombre
+y el hablar consuela al triste.
+
+       *       *       *       *       *
+
+714
+Grábenlo como en la piedra
+cuanto he dicho en este canto,
+y, aunque yo he sufrido tanto,
+debo confesarlo aquí:
+el hombre que manda allí
+es poco menos que un Santo.
+
+715
+Y son güenos los demás
+(a su ejemplo se manejan),
+pero por eso no dejan
+las cosas de ser tremendas;
+piensen todos y compriendan
+el sentido de mis quejas.
+
+716
+Y guarden en su memoria
+con toda puntualidá
+lo que con tal claridá
+les acabo de decir:
+mucho tendran que sufrir
+si no creen en mi verdá.
+
+717
+Y si atienden mis palabras
+no habrá calabozos llenos;
+manejense como güenos;
+no olviden esto jamás;
+aqui no hay razón de más;
+mas bien las puse de menos.
+
+718
+Y con esto me despido
+(todos han de perdonar):
+ninguna debe olvidar
+la historia de un desgraciado.
+Quien ha vivido encerrado
+poco tiene que contar.
+
+
+EL HIJO SEGUNDO DE MARTÍN FIERRO
+
+
+XIII
+
+719
+Lo que les voy adecir
+ninguno lo ponga en duda:
+y aunque la cosa es peluda,
+hare la resolución;
+es ladino el corazón,
+pero la lengua no ayuda.
+
+720
+El rigor de las desdichas
+hemos soportado diez años,
+pelegrinando entre estraños,
+sin tener donde vivir,
+y obligados a sufrir
+una máquina de daños.
+
+721
+El que vive de ese modo
+de todos es tributario;
+falta la cabeza primario
+y los hijos que él sustenta
+se dispersan como cuentas
+cuando se corta el rasario.
+
+722
+Yo anduve ansí como todos,
+hasta que al fin de sus días
+supo mi suerte una tía
+y me recogió a su lado;
+allí viví sosegado
+y de nada carecía.
+
+723
+No tenía cuidado alguno
+ni que trabajar tampoco,
+y como muchacho loco
+lo pasaba de holgazán;
+con razón dice el refrán
+que lo güeno dura poco.
+
+724
+En mí todo su cuidado
+y su cariño ponía;
+como a un hijo me quería
+con cariño verdadero,
+y me nombró de heredero
+de los bienes que tenía.
+
+725
+El Juez vino sin tardanza
+cuanto falleció la vieja.
+"De los bienes que te deja",
+me dijo, "Yo he de cuidar:
+es un rodeo regular
+y dos majadas de ovejas".
+
+726
+Era hombre de mucha labia,
+con mas leyes que un dotor,
+me dijo: "Vos sos menor,
+y por los años que tienes
+no podés manejar bienes;
+voy a nombrarte un tutor."
+
+727
+Tomó un recuento de todo,
+porque entendía su papel,
+y después que aquel pastel
+lo tuvo bien amasao,
+puso al frente un encargao,
+y a mí me llevó con él.
+
+728
+Muy pronto estuvo mi poncho
+lo mismo que cernidor;
+el chiripá estaba pior,
+y aunque para el frio soy guapo
+ya no me quedaba un trapo
+ni pa el frío, ni pa el calor.
+
+729
+En tan triste desabrigo
+tras de un mes, iba otro mes;
+guardaba silencio el Juez,
+la miseria me invadía,
+me acordaba de mi tía
+al verme en tal desnudez.
+
+730
+No se decir con fijeza
+el tiempo que pasé allí;
+y despues de andar ansí
+como moro sin señor,
+pasé a poder del tutor
+que debia cuidar de mí.
+
+
+XIV
+
+731
+me llevó consigo un viejo
+que pronto mostró la hilacha,
+dejaba ver por la facha
+que era medio cimarrón,
+muy renegao, muy ladrón,
+y le llamaban Vizcacha.
+
+732
+Lo que el Juez iba buscando
+sospecho, y no me equivoco;
+pero este punto no toco
+ni su secreto aviriguo;
+mi tutor era un antiguo
+de los que ya quedan pocos;
+
+733
+viejo lleno de camándulas,
+con un empaque a lo toro,
+andaba siempre en un moro
+metido no sé en qué enriedos,
+con las patas como loro
+de estribar entre los dedos.
+
+734
+Andaba rodiao de perros
+que eran todo su placer,
+jamas dejó de tener
+menos de media docena,
+mataba vacas ajenas
+para darles de comer.
+
+735
+Carniábamos noche a noche
+alguna res en el pago,
+y dejando alli el rezago
+alzaba en ancas el cuero,
+que se lo vendía a un pulpero
+por yerba, tabaco y trago.
+
+736
+¡Ah!, Viejo más comerciante
+en mi vida lo he encontrado.
+Con ese cuero robao
+el arreglaba el pastel,
+y allí entre el pulpero y él,
+se estendía el certificao.
+
+737
+La echaba de comedido;
+en las transquilas, lo viera,
+se ponía como una fiera
+si cortaban una oveja;
+pero de alzarse no deja
+un vellón o unas tijeras.
+
+738
+Una vez me dió una soba
+que me hizo pedir socorro,
+porque lastimé a un cachorro
+en el rancho de unas vascas;
+y al irse se alzó unas guascas:
+para eso era como zorro.
+
+739
+"¡Ahijuna!", dije entre mí,
+"Me has dao esta pesadumbre;
+ya verás; cuanto vislumbre
+una ocasión medio güena,
+te he quitar la costumbre
+de cerdiar yeguas ajenas."
+
+740
+Porque maté una vizcacha
+otra vez me reprendió;
+se lo vine a contar yo,
+y no bien se lo hube dicho:
+"Ni me nuembres ese bicho",
+me dijo, y se me enojó.
+
+741
+Al verlo tan irritao
+hallé prudente callar.
+"Este me va a castigar",
+dije entre mí, "si se agravia."
+Ya vi que les tenía rabia,
+y no las volví a nombrar.
+
+742
+Una tarde halló una punta
+de yeguas medio bichocas;
+despues que voltió unas pocas,
+las cerdiaba con empeño:
+yo vide venir al dueño,
+pero me callé la boca.
+
+743
+El hombre venía jurioso
+y nos cayó como un rayo;
+se descolgó del caballo
+revoliando el arriador,
+y lo cruzó de un lazazo
+ahi no más a mi tutor.
+
+744
+No atinaba don Vizcacha
+a qué lado disparar,
+hasta que logró montar,
+y, de miedo del chicote,
+se lo apretó hasta el cogote,
+sin pararse a contestar.
+
+745
+Ustedes creerán tal vez
+que el viejo se curaría...
+No, señores, lo que hacía,
+con mas cuidao dende entonces,
+era maniarlas de día
+para cerdiar a la noche.
+
+746
+Ese jué el hombre que estuvo
+encargao de mi destino;
+siempre anduvo en mal camino,
+y todo aquel vecindario
+decía que era un perdulario,
+insufrible de dañino.
+
+747
+Cuando el juez me lo nombró,
+al dármelo de tutor,
+me dijo que era un señor
+el que me debía cuidar,
+enseñarme a trabajar
+y darme la educación.
+
+748
+¡Pero que había de aprender
+al lao de ese viejo paco!;
+que vivía como un chuncaco
+en los bañaos, como el tero;
+un haragán, un ratero,
+y más chillón que un varraco.
+
+749
+Tampoco tenía más bienes
+ni propiedad conocida
+que una carreta podrida,
+y las paredes sin techo
+de un rancho medio deshecho
+que le servía de guarida.
+
+750
+Después de las trasnochadas
+allí venía a descansar;
+yo desiaba aviriguar
+lo que tuviera escondido,
+pero nunca había podido,
+pues no me dejaba entrar.
+
+751
+Yo tenía unas jergas viejas,
+que habian sido mas peludas;
+y con mis carnes desnudas,
+el viejo, que era una fiera,
+me hechaba a dormir ajuera
+con unas heladas crudas.
+
+752
+Cuando mozo jué casao,
+aunque yo lo desconfío,
+y decía un amigo mío
+que, de arrebatao y malo,
+mató a su mujer de un palo
+porque le dió un mate frío.
+
+753
+Y viudo por tal motivo
+nunca se volvió a casar;
+no era fácil encontrar
+ninguna que lo quisiera:
+todas temerían llevar
+la suerte de la primera.
+
+754
+Soñaba siempre con ella,
+sin duda por su delito,
+y decía el viejo maldito,
+el tiempo que estuvo enfermo,
+que ella dende el mesmo infierno
+lo estaba llamando a gritos.
+
+
+XV
+
+755
+siempre andaba retobao:
+con ninguno solía hablar;
+se divertía en escarbar
+y hacer marcas con el dedo,
+y en cuanto se ponía en pedo
+me empezaba a aconsejar.
+
+756
+Me parece que lo veo
+con su poncho calamaco,
+despues de echar un güen taco,
+ansí principiaba a hablar:
+"Jamás llegues a parar
+ande veas perros flacos."
+
+757
+"El primer cuidao del hombre
+es defender el pellejo.
+Lleváte de mi consejo,
+fijáte bien en lo que hablo:
+el diablo sabe por diablo,
+pero más sabe por viejo."
+
+758
+"Hacéte amigo del juez;
+no le des de que quejarse;
+y cuando quiera enojarse
+vos te debés encoger,
+pues siempre es güeno tener
+palenque ande ir a rascarse."
+
+759
+"Nunca le llevés la contra,
+porque él manda la gavilla:
+allí sentao en su silla,
+ningún güey le sale bravo;
+a uno le da con el clavo
+y a otro con la cantramilla."
+
+760
+"El hombre, hasta el más soberbio,
+con más espinas que un tala,
+aflueja andando en la mala
+y es blando como manteca:
+hasta la hacienda baguala
+cai al jagüel con la seca."
+
+761
+"No andés cambiando de cueva;
+hacé las que hace el ratón.
+Conserváte en el rincón
+en que empezó tu esistencia:
+vaca que cambia querencia
+se atrasa en la parición."
+
+762
+Y menudiando los tragos
+aquel viejo, como cerro,
+"No olvidés", me decía, "Fierro,
+que el hombre no debe crer
+en lágrimas de mujer
+ni en la renguera del perro."
+
+763
+"No te debes afligir
+aunque el mundo se desplome.
+Lo que más precisa el hombre
+tener, según yo discurro,
+es la memoria del burro,
+que nunca olvida ande come."
+
+764
+"Deja que caliente el horno
+el dueño del amasijo;
+lo que es yo, nunca me aflijo
+y a todito me hago el sordo:
+el cerdo vive tan gordo,
+y se come hasta los hijos."
+
+765
+"El zorro que ya es corrido
+dende lejos la olfatea;
+no se apure quien desea
+hacer lo que le aproveche
+la vaca que más rumea
+es la que da mejor leche."
+
+766
+"El que gana su comida
+güeno es que en silencio coma;
+ansina, vos, ni por broma
+querás llamar la atención:
+nunca escapa el cimarrón
+si dispara por la loma."
+
+767
+"Yo voy donde me conviene
+y jamás me descarrío;
+lleváte el ejemplo mío,
+y llenarás la barriga:
+aprendé de las hormigas:
+no van a un noque vacío."
+
+768
+"A naides tengás envidia:
+es muy triste el envidiar;
+cuando veás a otro ganar,
+a estorbarlo no te metas:
+cada lechón en su teta
+es el modo de mamar."
+
+769
+"Ansí se alimentan muchos
+mientras los pobres lo pagan;
+como el cordero hay quien lo haga
+en la puntita, no niego;
+pero otros, como el borrego,
+todo entera se la tragan."
+
+770
+"Si buscás vivir tranquilo
+dedicate a solteriar
+más si te querés casar,
+con esta alvertencia sea:
+que es muy difícil guardar
+prenda que otros codicean."
+
+771
+"Es un bicho la mujer
+que yo aquí no lo destapo,
+siempre quiere al hombre guapo;
+mas fijate en la eleción,
+porque tiene el corazón
+como barriga de sapo."
+
+772
+Y gangoso con la tranca,
+me solia decir: "Potrillo,
+recién te apunta el cormillo,
+mas te lo dice un toruno:
+no dejés que hombre ninguno
+te gane el lao del cuchillo."
+
+773
+"Las armas son necesarias,
+pero naides sabe cuándo;
+ansina, si andás pasiando,
+y de noche sobre todo,
+debés llevarlo de modo
+que al salir, salga cortando."
+
+774
+"Los que no saben guardar
+son pobres aunque trabajen;
+nunca, por más que se atajen,
+se librarán del cimbrón:
+al que nace barrigón
+es al ñudo que lo fajen."
+
+775
+"Donde los vientos me llevan
+allí estoy como en mi centro;
+cuando una tristeza encuentro
+tomo un trago pa alegrarme:
+a mí me gusta mojarme
+por ajuera y por adentro."
+
+776
+"Vos sos pollo, y te convienen
+toditas estas razones;
+mis consejos y leciones
+no echés nunca en el olvido:
+en las riñas he aprendido
+a no peliar sin puyones."
+
+777
+Con estos consejos y otros
+que yo en mi memoria encierro,
+y que aquí no desentierro,
+educándome seguía,
+hasta que al fin se dormía
+mesturao entre los perros.
+
+
+XVI
+
+778
+Cuando el viejo cayó enfermo,
+viendo yo que se empioraba
+y que esperanza no daba
+de mejorarse siquiera,
+le truje una culandrera
+a ver si lo mejoraba.
+
+779
+No cuanto lo vió, me dijo:
+"Este no aguanta el sogazo:
+muy poco le doy de plazo;
+nos van ha dar un epetáculo,
+porque debajo del brazo
+le ha salido un tabernáculo."
+
+780
+Dice el refrán que en la tropa
+nunca falta un güey corneta:
+uno que estaba en la puerta
+le pegó el grito ahi no más:
+"Tabernáculo,... ¡Que bruto!
+Un tubérculo dirás."
+
+781
+Al verse ansí interrumpido,
+al punto dijo el cantor:
+"No me parece ocasión
+de meterse los de ajuera;
+tabernáculo, senor,
+le decía la culandrera."
+
+782
+El de ajuera repitió,
+dándole otro chaguarazo:
+"Allá va un nuevo bolazo
+copo y se la gano en puerta
+a las mujeres que curan
+se las llama curanderas."
+
+783
+No es güeno -dijo el cantor-
+muchas manos en un plato
+y diré al que ese barato
+ha tomao de entrometido,
+que no creia haber venido
+a hablar entre literatos.
+
+784
+Y para seguir contando
+la historia de mi tutor,
+le pediré a ese dotor
+que en mi inorancia me deje,
+pues siempre encuentra el que teje
+otro mejor tejedor.
+
+785
+Seguía enfermo, como digo,
+cada vez más emperrao;
+yo estaba ya acobardao
+y lo espiaba dende lejos;
+era la boca del viejo
+la boca de un condenao.
+
+786
+Allá pasamos los dos
+noches terribles de invierno:
+el maldecía al padre Eterno
+como a los Santos benditos,
+pidiendolé al diablo a gritos
+que lo llevara al infierno.
+
+787
+Debe ser grande la culpa
+que a tal punto mortifica;
+cuando vía una reliquia
+se ponía como azogado,
+como si a un endemoniado
+le echaran agua bendita.
+
+788
+Nunca me le puse a tiro,
+pues era de mala entraña;
+y viendo herejía tamaña,
+si alguna cosa le daba,
+de lejos se la alcanzaba
+en la punta de una caña.
+
+789
+"Será mejor", decía yo,
+"Que abandonado lo deje,
+que blasfeme y que se queje,
+y que siga de esta suerte,
+hasta que venga la muerte
+y cargue con este hereje."
+
+790
+Cuando ya no pudo hablar
+le até en la mano un cencerro,
+y al ver cercano su entierro,
+arañando las paredes,
+espiró allí entre los perros
+y este servidor de ustedes.
+
+
+XVII
+
+791
+Le cobré un miedo terrible
+después que lo vi dijunto;
+llamé al alcalde, y al punto
+acompañado se vino
+de tres o cuatro vecinos
+a arreglar aquel asunto.
+
+792
+"Anima bendita", dijo
+un viejo medio ladiao
+"Que Dios lo haiga perdonao,
+es todo cuanto deseo,
+le conocí un pastoreo
+de terneritos robaos."
+
+793
+"Ansina es", dijo el alcalde;
+"Con eso empezó a poblar;
+yo nunca podré olvidar
+las travesuras que hizo;
+hasta que al fin fué preciso
+que le privasen carniar."
+
+794
+"De mozo fue muy jinete:
+no lo bajaba un bagual;
+pa ensillar un animal
+sin necesitar de otro,
+se encerraba en el corral,
+y alli golpiaba el potro."
+
+795
+"Se llevaba mal con todos:
+era su costumbre vieja
+el mesturar las ovejas,
+pues al hacer el aparte
+sacaba la mejor parte,
+y despues venía con quejas."
+
+796
+"Dios lo ampare al pobrecito",
+dijo en seguida un tercero.
+"Siempre robaba carneros;
+en eso tenía destreza:
+enterraba las cabezas
+y despues vendía los cueros."
+
+797
+"¡Y qué costumbre tenía
+cuando en el jogón estaba!
+Con el mate se agarraba
+estando los piones juntos.
+-Yo tallo -decía-y apunto-
+y a ninguno convidaba."
+
+798
+"Si ensartaba algún asao
+-¡pobre! ¡Como si lo viese!-,
+Poco antes de que estuviese
+primero lo maldecía,
+luego después lo escupía
+para que naides comiese."
+
+799
+"Quien le quitó esa costumbre
+de escupir el asador
+fue un mulato resertor
+que andaba de amigo suyo:
+un diablo muy peliador
+que le llamaban Barullo."
+
+800
+"Una noche que les hizo
+como estaba acostumbrao,
+se alzó el mulato enojao
+y le gritó: -¡viejo indino,
+yo te he de enseñar, cochino,
+a echar saliva al asao!-"
+
+801
+"Lo saltó por sobre el juego
+con el cuchillo en la mano;
+¡la pucha el pardo liviano!
+En la mesma atropellada
+le largó una puñalada
+que la quitó otro paisano..."
+
+802
+"Y ya caliente Barullo,
+quiso seguir la chacota;
+se le había erizao la mota
+lo que empezó la reyerta:
+el viejo ganó la puerta
+y apeló a las de gaviota."
+
+803
+"De esa costumbre maldita
+dende entonces se curó;
+a las casas no volvió:
+se metió en un cicutal
+y alli escondido pasó
+esa noche sin cenar."
+
+804
+Esto hablaban los presentes,
+y yo, que estaba a su lao
+al oir lo que he relatao,
+aunque él era un perdulario,
+dije entre mí: "¡Que rosario
+le estan lanzando al finao!".
+
+805
+Luego comenzó el alcalde
+a registrar cuanto había,
+sacando mil chucherias
+y guascas y trapos viejos,
+temeridá de trebejos
+que para nada servían.
+
+806
+Salieron lazos, cabrestos,
+coyundas y maniadores,
+una punta de arriadores,
+cinchones, maneas, torzales
+una porción de bozales
+y un montón de tiradores.
+
+807
+Habia riendas de domar
+frenos, estribos quebraos;
+bolas, espuelas, recaos,
+unas pavas, unas ollas,
+y un gran manojo de argollas
+de cinchas que había cortao.
+
+808
+Salieron varios cencerros,
+alesnas, lonjas, cuchillos,
+unos cuantos cojinillos
+un alto de jergas viejas,
+muchas botas desparejas
+y una infinidá de anillos.
+
+809
+Había tarros de sardinas,
+unos cueros de venao,
+unos ponchos aujeriaos,
+y en tan tremendo entrevero
+apareció hasta un tintero
+que se perdió en el juzgao.
+
+810
+Decía el alcalde muy serio:
+"Es poco cunato se diga;
+había sido como hormiga.
+He de darle parte al Juez.
+¡Y que me venga después
+con que no se los persiga!"
+
+811
+Yo estaba medio azorao
+de ver lo que sucedía;
+entre ellos mesmos decían
+que unas prendas eran suyas,
+pero a mi me parecía
+que estas eran aleluyas.
+
+812
+Y cuando ya no tuvieron
+rincón donde registrar,
+cansaos de tanto huroniar
+y de trabajar en balde,
+"Vámosnos", dijo el alcalde,
+"Luego lo haré sepultar."
+
+813
+Y aunque mi padre no era
+el dueño de ese hormiguero,
+el, allí muy cariñero,
+me dijo con muy buen modo:
+"Vos serás heredero
+y te harás cargo de todo."
+
+814
+"Se ha de arreglar este asunto
+como es preciso que sea;
+voy a nombrar albacea
+uno de los circustantes;
+las cosas no son como antes
+tan enredadas y feas."
+
+815
+"¡Bendito Dios!", pensé yo,
+"Ando como un pordiosero,
+y me nuembran heredero
+de toditas estas guascas.
+¡Quisiera saber primero
+lo que se han hecho mis vacas!"
+
+
+XVIII
+
+816
+Se largaron, como he dicho,
+a disponer el entierro;
+cuando me acuerdo me aterro:
+me puse a llorar a gritos
+al verme allí tan solito
+con el finao y los perros.
+
+817
+Me saqué el escapulario,
+se lo colgué al pecador,
+y como hay en el Señor
+misericordia infinita,
+rogué por la alma bendita
+del que antes jué mi tutor.
+
+818
+No se calmaba mi duelo
+de verme tan solitario;
+ahí le champurrié un rosario
+como si juera mi padre,
+besando el escapulario
+que me había puesto mi madre.
+
+819
+"Madre mía", gritaba yo,
+"¿dónde estarás padeciendo?
+El llanto que estoy virtiendo
+lo redamarías por mí,
+si vieras a tu hijo aquí
+todo lo que esta sufriendo."
+
+820
+Y mientras ansí clamaba
+sin poderme consolar,
+los perros, para aumentar
+mas mi miedo y mi tormento,
+en aquel mesmo momento
+se pusieron a llorar.
+
+821
+Libre Dios a los presentes
+de que sufran otro tanto;
+con el muerto y esos llantos
+les juro que faltó poco
+para que me vuelva loco
+en medio de tanto espanto.
+
+822
+Decían entonces las viejas,
+como que eran sabedoras,
+que los perros cuando lloran
+es porque ven al demonio;
+yo creia en el testimonio
+como cré siempre el que inora.
+
+823
+Ahi dejé que los ratones
+comieran el guasquerío
+y como anda a su albedrío
+todo el que güerfano queda,
+alzando lo que era mío
+abandoné aquella cueva.
+
+824
+Supe después que esa tarde
+vino un pión y lo enterró;
+ninguno lo acompañó
+ni lo velaron siquiera;
+y al otro día amaneció
+con una mano dejuera.
+
+825
+Y me ha contao además
+el gaucho que hizo el entierro
+-al recordarlo me aterro,
+me da pavor este asunto-
+que la mano del dijunto
+se la había comido un perro.
+
+826
+Tal vez yo tuve la culpa
+porque de asustao me fuí;
+supe, despues que volví,
+y asigurárselos puedo,
+que los vecinos, de miedo,
+no pasaban por allí.
+
+827
+Hizo del rancho guarida
+la sabandija mas sucia
+-el cuerpo se despeluza
+y hasta la razón se altera-;
+pasaba la noche entera
+chillando allí una lechuza.
+
+828
+Por mucho tiempo no pude
+saber lo que me pasaba;
+los trapitos con que andaba
+eran puras hojarascas;
+todas las noches soñaba
+con viejos, perros y guascas.
+
+
+XIX
+
+829
+Anduve a mi voluntá,
+como moro sin señor;
+ese jué el tiempo mejor
+que yo he pasado tal vez;
+de miedo de otro tutor,
+ni aporté por lo del Juez.
+
+830
+"Yo cuidaré", me había dicho,
+"De lo de tu propiedá:
+todo se conservará,
+el vacuno y los rebaños,
+hasta que cumplas 30 años,
+en que seás mayor de edá."
+
+831
+Y aguardando que llegase
+el tiempo que la ley fija,
+pobre como lagartija
+y sin respetar a naides,
+anduve cruzando el aire
+como bola sin manija.
+
+832
+Me hice hombre de esa manera
+bajo el más duro rigor;
+sufriendo tanto dolor
+muchas cosas aprendí;
+y, por fin, vítima fuí
+del mas desdichado amor.
+
+833
+De tantas alternativas
+esta es la parte peluda
+infeliz y sin ayuda,
+fué estremado mi delirio,
+y causaban mi martirio
+los desdenes de una viuda.
+
+834
+Llora el hombre ingratitudes
+sin tener un jundamento;
+acusa sin miramiento
+a la que el mal le ocasiona,
+y tal vez en su persona
+no hay ningún merecimiento.
+
+835
+Cuando yo mas padecía
+la crueldá de mi destino,
+rogando al poder divino
+que del dolor me separe,
+me hablaron de un adivino
+que curaba esos pesares.
+
+836
+Tuve recelos y miedos,
+pero al fin me disolví:
+hice coraje y me fuí
+donde el adivino estaba,
+y por ver si me curaba,
+cuanto llevaba le di.
+
+837
+Me puse, al contar mis penas,
+mas colorao que un tomate,
+y se me añudó el gaznate
+cuando dijo el hermitaño:
+"Hermano, le han hecho daño
+y se lo han hecho en un mate."
+
+838
+"Por verse libre de usté
+lo habrán querido embrujar."
+Despues me empezó a pasar
+una pluma de avestruz,
+y me dijo:"De la Cruz
+recebí el don de curar."
+
+839
+"Debés maldecir", me dijo,
+"A todos tus conocidos;
+ansina el que te ha ofendido
+pronto estará decubierto,
+y deben ser maldecidos
+tanto vivos como muertos."
+
+840
+Y me recetó un hincao
+en un trapo de la viuda,
+frente a una planta de ruda,
+hiciera mis horaciones,
+diciendo: "No tengás duda;
+eso cura las pasiones."
+
+841
+A la viuda, en cuanto pude,
+un trapo le manotié;
+busqué la ruda y al pie,
+puesto en cruz, hice mi rezo;
+pero, amigos, ni por eso
+de mis males me curé.
+
+842
+Me recetó otra ocasión
+que comiera abrojo chico;
+el remedio no me esplico,
+mas, por desechar el mal,
+al ñudo en un abrojal
+fí a ensangrentarme el hocico.
+
+843
+Y con tanta medecina
+me parecía que sanaba;
+por momentos se aliviaba
+un poco mi padecer,
+mas si a la viuda encontraba,
+volvia la pasión a arder.
+
+844
+Otra vez que consulté
+su saber estrordinario,
+recibió bien su salario,
+y me recetó aquel pillo
+que me colgase tres grillos
+ensartaos como rosario.
+
+845
+Por fin la última ocasión
+que por mi mal lo fí a ver,
+me dijo: "No, mi saber
+no ha perdido su virtú;
+yo te daré la salú:
+no triunfará esa mujer.
+
+846
+"Y tené fe en el remedio,
+pues la cencia no es chacota;
+de esto no entendés ni jota.
+Sin que ninguno sospeche,
+cortále a un negro tes motas
+y hacélas hervir en leche."
+
+847
+Yo andaba ya desconfiando
+de la curación maldita,
+y dije: "Este no me quita
+la pasión que me domina;
+pues que viva la gallina,
+aunque sea con la pepita."
+
+848
+Ansí me dejaba andar,
+hasta que, en una ocasión,
+el Cura me echó un sermón,
+para curarme sin duda,
+diciendo que aquella viuda
+era hija de confisión.
+
+849
+Y me dijo estas palabras
+que nunca las he olvidao:
+"Has de saber que el finao
+ordenó en su testamento
+que naides de casamiento
+le hablara en lo sucesivo;
+y ella prestó el juramento
+mientras él estaba vivo."
+
+850
+"Y es preciso que lo cumpla,
+porque ansí lo manda Dios;
+es necesario que vos
+no la vuelvas a buscar,
+porque si llega a faltar
+se condenarán los dos."
+
+851
+Con semejante alvertencia
+se completó mi redota;
+le vi los pies a la sota,
+y me le alejé a la viuda,
+mas curao que con la ruda,
+con los grillos y las motas.
+
+852
+Despues me contó un amigo
+que al Juez le había dicho el cura
+que yo era un cabeza dura
+y que era un mozo perdido;
+que me echaran del partido,
+que no tenía compostura.
+
+853
+Tal vez por ese consejo
+y sin que mas causa hubiera,
+ni que otro motivo diera,
+me agarraron redepente
+y en el primer contingente
+me echaron a la frontera.
+
+854
+De andar persiguiendo viudas
+me he curao el deseo;
+en mil penurias me veo,
+mas pienso volver tal vez
+a ver si sabe aquel Juez
+lo que se ha hecho de mi rodeo.
+
+
+XX
+
+855
+Martín Fierro y sus dos hijos,
+entre tanta concurrencia,
+siguieron con alegría
+celebrando aquella fiesta.
+Diez años, los más terribles,
+había durado la ausencia,
+y al hallarse nuevamente
+era su alegría completa.
+En ese mesmo momento
+uno que vino de ajuera,
+a tomar parte con ellos
+suplicó aue lo almitieran.
+Era un mozo forastero
+de muy regular presencia,
+y hacía poco que en le pago
+andaba dando sus güeltas.
+Asiguran algunos
+que venía de la frontera;
+que había pelao a un pulpero
+en las últimas carreras;
+pero andaba despilcho,
+no traia una prenda güena:
+un recadito cantor
+daba fe de sus pobrezas.
+Le pidió la bendición
+al que causaba la fiesta
+y, sin decirles su nombre,
+les declaró con franqueza
+que el nombre de Picardía
+es el único que lleva.
+Y para contar su historia
+a todos pide licencia,
+diciéndoles que en seguida
+iban a saber quien era.
+Tomo al punto la guitarra,
+la gente se puso atenta,
+y ansí cantó Picardía
+en cuanto templó las cuerdas:
+
+
+PICARDÍA
+
+
+XXI
+
+856
+-Voy a contarles mi historia
+(perdónenme tanta charla),
+y les diré al principiarla,
+aunque es triste hacerlo ansí:
+a mi madre la perdí
+antes de saber llorarla.
+
+857
+Me quedé en el desamparo,
+y al hombre que me dió el ser
+no lo pude conocer;
+ansí, pues, dende chiquito,
+volé como el pajarito
+en busca de qué comer.
+
+858
+O por causa del servicio,
+que tanta gente destierra,
+o por causa de la guerra,
+que es causa bastante seria,
+los hijos de la miseria
+son muchos en esta tierra.
+
+859
+Ansí, por ella empujado,
+no sé las cosas que haría,
+y aunque con verguenza mía,
+debo hacer esta alvertencia:
+siendo mi madre Inocencia,
+me llamaban Picardía.
+
+860
+Me llevó a su lado un hombre
+para cuidar las ovejas,
+pero todo el día eran quejas
+y guascazos a lo loco,
+y no me daba tampoco
+siquiera unas jergas viejas.
+
+861
+Dende la alba hasta la noche,
+en el campo me tenía;
+cordero que se moría
+-mil veces me sucedió-
+los caranchos lo comían,
+pero lo pagaba yo.
+
+862
+De trato tan rigoroso
+muy pronto me acobardé;
+el bonete me apreté
+buscando los mejores fines,
+y con unos volantines
+me fuí para Santa Fé.
+
+863
+El pruebista principal
+a enseñarme me tomó,
+y ya iba aprendiendo yo
+a bailar en la maroma,
+mas me hicieron una broma
+y aquello me indijustó.
+
+864
+Una vez que iba bailando,
+porque estaba el calzón roto,
+armaron tanto alboroto
+que me hicieron perder pie;
+de la cuerda me largué
+y casi me descogotó.
+
+865
+Ansí me encontre de nuevo
+sin saber dónde meterme,
+y ya pensaba volverme
+cuando, por fortuna mía,
+me salieron unas tías
+que quisieron recogerme.
+
+866
+Con aquella parentela,
+para mí desconocida,
+me acomodé ya en seguida,
+y eran muy buenas señoras;
+pero las más rezadoras
+que he visto en toda mi vida.
+
+867
+Con el toque de oración
+ya principiaba el rosario;
+noche a noche un calendario
+tenían ellas que decir,
+y a rezar solían venir
+muchas de aquel vecindario.
+
+868
+Lo que allí me aconteció
+siempre lo he de recordar,
+pues me empiezo a equivocar
+y a cada paso refalo,
+como si me entrara el Malo
+cuanto me hincaba a rezar.
+
+869
+Era como tentación
+lo que yo esperimenté,
+y jamas olvidaré
+cuanto tuve que sufrir,
+porque no podia decir
+"Artículos de la fe".
+
+870
+Tenía al lao una mulata
+que era nativa de allí;
+se hincaba cerca de mí
+como el ángel de la guarda;
+¡pícara!, Y era la parda
+la que me tentaba ansí.
+
+871
+"Rezá", me dijo mi tía,
+"Artículos de la fe".
+Quise hablar y me atoré;
+la dificultá me aflige;
+miré a la parda, y ya dije:
+"Artículos de Santa fé".
+
+872
+Me acomodó el coscorrón
+que estaba viendo venir,
+yo me quise corregir,
+a la mulata miré
+y otra vez volví a decir:
+"Artículos de Santa fé".
+
+873
+Sin dificultá ninguna
+rezaba todito el día,
+y a la noche no podía
+ni con un trabajo inmenso;
+es por eso que yo pienso
+que alguno me tentaría.
+
+874
+Una noche de tormenta
+vi a la parda y me entró chucho;
+los ojos -me asusté mucho-
+eran como refocilo:
+al nombrar a San Camilo,
+le dije San Camilucho.
+
+875
+Esta me da con el pie,
+aquella otra con el codo:
+¡ah, viejas, por ese modo,
+aunque de corazón tierno,
+yo las mandaba al infierno
+con oraciones y todo!
+
+876
+Otra vez, que como siempre
+la parda me perseguía,
+cuando yo acordé, mis tías
+me habían sacao un mechón
+al pedir la estirpación
+de todas las herejías.
+
+877
+Aquella parda maldita
+me tenía medio afligido,
+y ansí; me había sucedido
+que, al decir "Estirpación",
+le acomodé "Entripación"
+y me cayeron sin ruido.
+
+878
+El recuerdo y el dolor
+me duraron muchos días;
+soñe con las herejías
+que andaban por estirpar
+y pedía siempre al rezar
+la estirpación de mis tías.
+
+879
+Y dale siempre rosarios,
+noche a noche sin cesar;
+dale siempre barajar
+salves, trisagios y credos;
+me aburrí de esos enriedos
+y al fin me mandé mudar.
+
+
+XXII
+
+880
+Anduve como pelota,
+y más pobre que una rata:
+cuando empecé a ganar plata
+se armó no sé que barullo:
+yo dije: a tu tierra, grullo,
+aunque sea con una pata.
+
+881
+Eran duros y bastantes
+los años que allá pasaron;
+con lo que ellos me enseñaron
+formaba mi capital;
+cuanto vine, me enrolaron
+en la Guardia Nacional.
+
+882
+Me habia ejercitao al naipe,
+el juego era mi carrera;
+hice alianza verdadera
+y arreglé una trapisonda
+con el dueño de una fonda
+que entraba en la peladera.
+
+883
+Me ocupaba con esmero
+en floriar una baraja;
+el la guardaba en la caja
+en paquetes, como nueva;
+y la media arroba lleva
+quien conoce la ventaja.
+
+884
+Comete un error inmenso
+quien de la suerte presuma;
+otro mas hábil lo fuma,
+en un dos por tres lo pela,
+y lo larga que no vuela,
+porque le falta una pluma.
+
+885
+Con un socio que lo entiende
+se arman partidas muy güenas;
+queda allí la plata ajena,
+quedan prendas y botones:
+siempre cain a esas riuniones
+zonzos con las manos llenas.
+
+886
+Hay muchas trampas legales,
+recursos del jugador;
+no cualquiera es sabedor
+a lo que un naipe se presta:
+con una cincha bien puesta
+se la pega uno al mejor.
+
+887
+Deja a veces ver la boca,
+haciendo el que se descuida;
+juega el otro hasta la vida
+y es siguro que se ensarta,
+porque uno muestra una carta
+y tiene otra prevenida.
+
+888
+Al monte, las precauciones
+no han de olvidarse jamás;
+debe afirmarse además
+los dedos para el trabajo,
+y buscar asiento bajo
+que le dé la luz de atrás.
+
+889
+Pa tallar, tome la luz;
+dé la sombra al alversario;
+acomódese al contrario
+en todo juego cartiao:
+tener ojo ejercitao
+es siempre muy necesario.
+
+890
+El contrario abre los suyos,
+pero nada ve el que es ciego:
+dandole soga, muy luego
+se deja pescar el tonto;
+todo chapetón cre pronto
+que sabe mucho en el juego.
+
+891
+Hay hombres muy inocentes
+y que a las carpetas van;
+cuando azariados están
+-les pasa infinitas veces-
+pierden en puertas y en treses,
+y dándoles mamarán.
+
+892
+El que no sabe no gana
+aunque ruegue a Santa Rita;
+en la carpeta a un mulita
+se le conoce al sentarse,
+y conmigo era matarse:
+no podían ni a la manchita.
+
+893
+En el nueve y otros juegos
+llevo ventaja y no poca,
+y siempre que dar me toca
+el mal no tiene remedio,
+porque sé sacar del medio
+y sentar la de la boca.
+
+894
+En el truco, al más pintao
+solía ponerlo en apuro;
+cuando aventajar procuro,
+sé tener, como fajadas,
+tiro a tiro el as de espadas,
+o flor, o envite siguro.
+
+895
+Yo sé defender mi plata
+y lo hago como el primero:
+el que ha de jugar dinero
+preciso es que no se atonte;
+si se armaba una de monte,
+tomaba parte el fondero.
+
+896
+Un pastel, como un paquete,
+se llevarlo con limpieza;
+dende quc a salir empiezan
+no hay carta que no recuerde;
+sé cuál se gana o se pierde
+en cuanto cain en la mesa.
+
+897
+También por estas jugadas
+suele uno verse en aprietos;
+mas yo no me comprometo
+porque sé hacerlo con arte,
+y aunque les corra el descarte
+no se descubre el secreto.
+
+898
+Si me llamaban al dao,
+nunca me solía faltar
+un cargado que largar,
+un cruzao para el mas vivo,
+y hasta atracarles un chivo
+sin dejarlos maliciar.
+
+899
+Cargaba bien una taba,
+porque la sé manejar;
+no era manco en el billar,
+y por fin de lo que esplico,
+digo que hasta con pichicos
+era capaz de jugar.
+
+900
+Es un vicio de mal fin
+el de jugar, no lo niego;
+todo el que vive del juego
+anda a la pesca de un bobo,
+y es sabido que es un robo
+ponerse a jugarle a un ciego.
+
+901
+Y esto digo claramente
+porque he dejao de jugar;
+y le puedo asigurar,
+como que fuí del oficio:
+más cuesta aprender un vicio
+que aprender a trabajar.
+
+
+XXIII
+
+902
+Un nápoles mercachifle
+que andaba con un arpista,
+cayó también en la lista
+sin dificultá ninguna:
+lo agarré a la treinta y una
+y le daba bola vista.
+
+903
+Se vino haciendo el chiquito,
+por sacarme esa ventaja;
+en el pantano se encaja,
+aunque robo se le hacía;
+lo cegó santa lucía
+y desocupó las cajas.
+
+904
+¡Lo hubieran visto afligido
+llorar por las chucherías!
+"Me gañao con picardía",
+decía el gringo y lagrimiaba,
+mientras yo en un poncho alzaba
+todita su mercheria.
+
+905
+Quedó allí aliviao del peso
+sollozando sin consuelo;
+había caido en el anzuelo,
+tal vez porque era domingo,
+y esa calidá de gringo
+no tiene Santo en el cielo.
+
+906
+Pero poco aproveché
+de fatura tan lucida;
+el diablo no se descuida,
+y a mí me seguía la pista
+un ñato muy enredista
+que era Oficial de partida.
+
+907
+Se me presentó a esigir
+la multa en que había incurrido,
+que el juego estaba prohibido,
+qus iba a llevarme al cuartel
+tuve que partir con él
+todo lo que había alquirido.
+
+908
+Empecé a tomarlo entre ojos
+por esa albitrariedá;
+yo había ganao, es verdá,
+con recursos, eso sí;
+pero el me ganaba a mí
+fundao en su autoridá.
+
+909
+Decían que por un delito
+mucho tiempo anduvo mal;
+un amigo servicial
+lo compuso con el Juez,
+y poco tiempo después
+lo pusieron de Oficial.
+
+910
+En recorrer el partido
+continuamente se empleaba;
+ningún malevo agarraba,
+pero traia en un carguero
+gallinas, pavos, corderos
+que por ahi recoletaba.
+
+911
+No se debía permitir
+el abuso a tal estremo.
+Mes a mes hacía lo mesmo,
+y ansí decía el vecindario:
+"Este ñato perdulario
+ha resucitao el diezmo."
+
+912
+La echaba de guitarrero
+y hasta de concertador:
+sentao en el mostrador
+lo hallé una noche cantando
+y le dije: "Co...mo...quiando
+con ganas de oir un cantor."
+
+913
+Me echó el ñato una mirada
+que me quiso devorar,
+mas no dejó de cantar
+y se hizo el desentendido;
+pero ya había conocido
+que no lo podía pasar.
+
+914
+Una tarde que me hallaba
+de visita... vino el ñato,
+y para darle un mal rato
+dije juerte: "na...to...ribia,
+no cebe con la agua tibia",
+y me la entendió el mulato.
+
+915
+Era todo en el juzgao,
+y como que se achocó,
+ahi no más me contestó:
+"Cuanto el caso se presiente
+te he de hacer tomar caliente,
+y has de saber quién soy yo."
+
+916
+Por causa de una mujer
+se enredó más la cuestión;
+le tenía el ñato afición;
+ella era mujer de ley,
+moza con cuerpo de güey,
+muy blanda de corazón.
+
+917
+La hallé una vez de amasijo;
+estaba hecha un embeleso,
+y le dije: "Me intereso
+en aliviar sus quehaceres,
+y ansí, señora, si quiere
+yo le arrimaré los güesos."
+
+918
+Estaba el ñato presente
+sentado como de adorno;
+por evitar un trastorno
+ella, al ver que se dijusta,
+me contestó: "Si usté gusta,
+arrímelos junto al horno."
+
+919
+Ahi se enredó la madeja
+y su enemistá conmigo;
+se declaró mi enemigo,
+y, por aquel cumplimiento,
+ya sólo buscó el momento
+de hacerme dar un castigo.
+
+920
+Yo vía que aquel maldito
+me miraba con rencor,
+buscando el caso mejor
+de poderme echar el pial;
+y no vive más el lial
+que lo que quiere el traidor.
+
+921
+No hay matrero que no caiga,
+ni arisco que no se amanse;
+ansí, yo, dende aquel lance,
+no salía de algún rincón,
+tirao como el San Ramón
+después que se pasa el trance.
+
+
+XXIV
+
+922
+Me le escapé con trabajo
+en diversas ocasiones;
+era de los adulones;
+me puso mal con el Juez;
+hasta que al fin una vez
+me agarró en las eleciones.
+
+923
+Ricuerdo que esa ocasión
+andaban listas diversas;
+las opiniones dispersas
+no se podían arreglar:
+decían que el Juez, por triunfar,
+hacía cosas muy perversas.
+
+924
+Cuando si riunió la gente
+vino a proclamarla el ñato,
+diciendo con aparato
+"Que todo andaría mal,
+si pretendía cada cual
+votar por un candilato."
+
+925
+Y quiso al punto quitarme
+la lista que yo llevé,
+mas yo se la mesquiné,
+y ya me gritó: "¡anarquista!
+Has de votar por la lista
+que ha mandao el Comiqué."
+
+926
+Me dió verguenza de verme
+tratado de esa manera;
+y como si uno se altera
+ya no es fácil que se ablande,
+le dije: "Mande el que mande,
+yo he de votar por quien quiera."
+
+927
+"En las carpetas de juego
+y en la mesa eletoral,
+a todo hombre soy igual,
+respeto al que me respeta,
+pero el naipe y la boleta
+naides me lo ha de tocar."
+
+928
+Ahi no más ya me cayó
+a sable la polecía;
+aunque era una picardía
+me decidí a soportar,
+y no los quise peliar
+por no perderme ese día.
+
+929
+Atravesao me agarró
+y se aprovechó aquel ñato;
+dende que sufrí ese trato
+no dentro donde no quepo;
+fi a jinetiar en el cepo
+por cuestión de candilatos.
+
+930
+Injusticia tan notoria
+no la soporté de flojo;
+una venda de mis ojos
+vino el suceso a voltiar:
+vi que teníamos que andar
+como perro con tramojo.
+
+931
+Dende equellas eleciones
+se siguió el batiburrillo;
+aquél se volvió un ovillo
+del que no había ni noticia,
+¡es señora la justicia...
+Y anda en ancas del mas pillo!
+
+
+XXV
+
+932
+Después de muy pocos días,
+tal vez por no dar espera
+y que alguno no se juera,
+hicieron citar la gente,
+pa riunir un contingente
+y mandar a la frontera.
+
+933
+Se puso arisco el gauchaje:
+la gente está acobardada;
+salió la partida armada
+y trujo como perdices
+unos cuantos infelices
+que entraron en la voltiada.
+
+934
+Decía el ñato con soberbia:
+"¡Esta es una gente indina!
+Yo los rodié a la sordina:
+no pudieron escapar;
+y llevaba orden de arriar
+todito lo que camina."
+
+935
+Cuando vino el Comendante
+dijeron: "¡Dios nos asista!"
+Llegó les clavó la vista
+(yo estaba haciendome el zonzo);
+le echó a cada uno un responso
+y ya lo plantó en la lista.
+
+936
+"¡Cuadráte!", Le dijo a un negro.
+"Te estás haciendo el chiquito,
+cuando sos el más maldito
+que se encuentra en todo el pago.
+Un servicio es el que te hago,
+y por eso te remito."
+
+A OTRO
+
+937
+"Vos no cuidás tu familia
+ni le das los menesteres;
+visitás otras mujeres,
+y es preciso, calavera,
+que aprendás en la frontera
+a cumplir con tus deberes."
+
+A OTRO
+
+938
+"Vos también sos trabajoso;
+cuando es preciso votar
+hay que mandarte llamar
+y siempre andás medio alzao;
+sos un desubordinao,
+y yo te voy a filiar."
+
+A OTRO
+
+939
+"¿cuánto tiempo hace que vos
+andás en este partido?
+¿Cuantas veces has venido
+a la citación del juez?
+No te he visto ni una vez:
+has de ser algún perdido."
+
+A OTRO
+
+940
+"Este es otro barullero
+que pasa en la pulpería
+predicando noche y día
+y anarquizando a la gente:
+irás en el contingente
+por tamaña picardía."
+
+A OTRO
+
+941
+"Dende la anterior remesa
+vos andás medio perdido;
+la autoridá no ha podido
+jamás hacerte votar:
+cuando te mandan llamar
+te pasás a otro partido."
+
+A OTRO
+
+942
+"Vos siempre andas de florcita:
+no tenés renta ni oficio;
+no has hecho ningún servicio;
+no has votado ni una vez.
+¡Marchá!... Para que dejés
+de andar haciendo perjuicio."
+
+A OTRO
+
+943
+"Dame vos tu papeleta:
+yo te la voy a tener.
+Esta queda en mi poder;
+despúes la recogerás,
+y ansí, si te resertás,
+todos te puedan prender."
+
+A OTRO
+
+944
+"Vos, porque sos ecetuao,
+ya te querés sulevar;
+no vinistes a votar
+cuando hubieron eleciones;
+no te valdrán ececiones:
+¡yo te voy a enderezar!"
+
+945
+Y a éste por este motivo
+y a otro por otra razón,
+toditos, en conclusión,
+sin que escapara ninguno,
+jueron pasando uno a uno
+a juntarse en un rincón.
+
+946
+Y allí las pobres hermanas,
+las madres y las esposas
+redamaban cariñosas
+sus lágrimas de dolor;
+pero gemidos de amor
+no remedian estas cosas.
+
+947
+Nada importa que una madre
+se desespere o se queje,
+que un hombre a su mujer deje
+en el mayor desamparo;
+hay que callarse, o es claro
+que lo quiebran por el eje.
+
+948
+Dentran despúes a empeñarse
+con este o aquel vecino;
+y, como en el masculino,
+el que menos corre, vuela,
+deben andar con cautela
+las pobres, me lo imagino.
+
+949
+Muchas al Juez acudieron,
+por salvar de la jugada;
+el les hizo una cuerpiada,
+y, por mostrar su inocencia,
+les dijo: "Tengan pacencia
+pues yo no puedo hacer nada."
+
+950
+Ante aquella autoridá
+permanecían suplicantes,
+y, después de hablar bastante,
+"Yo me lavo"; dijo el Juez,
+"Como Pilatos los pies:
+esto lo hace el Comendante."
+
+951
+De ver tanto desamparo
+el corazón se partía;
+había madre que salía
+con dos; tres hijos o más,
+por delante y por detrás,
+y las maletas vacías.
+
+952
+"¿Dónde irán?", Pensaba yo,
+"¿a perecer de miseria?
+Las pobres, si de esta feria
+hablan mal, tienen razón;
+pues hay bastante materia
+para tan justa aflición."
+
+
+XXVI
+
+953
+Cuando me llegó mi turno
+dije entre mí: "Ya me toca",
+y aunque mi falta era poca
+no sé por que me asustaba;
+les asiguro que estaba
+con el Jesús en ia boca.
+
+954
+Me dijo que yo era un vago,
+un jugador, un perdido;
+que dende que fí al partido
+andaba de picaflor;
+que había de ser un bandido
+como mi antesucesor.
+
+955
+Puede que uno tenga un vicio
+y que de él no se reforme,
+mas naides esta conforme
+con recebir ese trato:
+yo conocí que era el ñato
+quien le había dao los informes.
+
+956
+Me dentro curiosidá,
+al ver que de esa manera
+tan siguro me dijera
+que jué mi padre un bandido;
+luego, lo habrá conocido,
+y yo inoraba quien era.
+
+957
+Me empeñé en aviriguarlo;
+promesas hice a Jesús;
+tuve por fin una luz
+y supe con alegría
+que era el autor de mis días
+el guapo sargento Cruz.
+
+958
+Yo conocía bien su historia
+y la tenía muy presente:
+sabía que Cruz, bravamente,
+yendo con una partida,
+había jugado la vida
+por defender a un valiente.
+
+959
+Y hoy ruego a mi Dios piadoso
+que lo mantenga en su gloria;
+se ha de conservar su historia
+en el corazón del hijo;
+el al morir me bendijo
+yo bendigo su memoria.
+
+960
+Yo juré tener enmienda
+y lo conseguí de veras;
+puedo decir ande quiera
+que, si faltas he tenido,
+de todas me he corregido
+dende que supe quién era.
+
+961
+El que sabe ser güen hijo
+a los suyos se parece;
+y aquel que a su lado crece
+y a su padre no hace honor,
+como castigo merece
+de la desdicha el rigor.
+
+962
+Con un empeño costante
+mis faltas supe enmendar;
+todo conseguí olvidar,
+pero, por desgracia mía,
+el nombre de Picardía
+no me lo pude quitar.
+
+963
+Aquel que tiene güen nombre
+muchos dijustos se ahorra,
+y entre tanta mazamorra
+no olviden esta alvertencia:
+aprendí por esperencia
+que el mal nombre no se borra.
+
+
+XXVII
+
+964
+He servido en la frontera
+en un cuerpo de milicias;
+no por razón de justicia
+como sirve cualesquiera.
+
+965
+La bolilla me tocó
+de ir a pasar malos ratos
+por la facultá del ñato,
+que tanto me persiguió.
+
+966
+Y sufrí en aquel infierno
+esa dura penitencia,
+por una malaquerencia
+de un Oficial subalterno.
+
+967
+No repetiré las quejas
+de lo que se sufre allá:
+son cosas muy dichas ya
+y hasta olvidadas, de viejas.
+
+968
+Siempre el mesmo trabajar,
+siempre el mesmo sacrificio,
+es siempre el mesmo servicio,
+y el mesmo nunca pagar.
+
+969
+Siempre cubiertos de harapos,
+siempre desnudos y pobres,
+nunca le pagan un cobre
+ni le dan jamás un trapo.
+
+970
+Sin sueldo y sin uniforme
+lo pasa uno aunque sucumba:
+confórmese con la tumba;
+y si no... No se conforme.
+
+971
+Pues si usté se ensoberbece
+o no anda muy voluntario,
+le aplican un novenario
+de estacas... Que lo enloquecen.
+
+972
+Andan como pordioseros
+sin que un peso los alumbre,
+porque han tomao la costumbre
+de deberle años enteros.
+
+973
+Siempre hablan de lo que cuesta;
+que allá se gasta un platal:
+¡pues yo no he visto ni un rial
+en lo que duró la fiesta!
+
+974
+Es servicio estrordinario
+bajo el jusil y la vara,
+sin que sepamos qué cara
+le ha dao Dios al comisario.
+
+975
+Pues si va a hacer la revista
+se vuelve como una bala:
+es lo mesmo que luz mala
+para perderse de vista.
+
+976
+Y de yapa cuando va,
+todo parece estudiao:
+van con meses atrasaos
+de gente que ya no está.
+
+977
+pues si adrede que lo hagan,
+podrán hacerlo mejor:
+cuando cai, cai con la paga
+del contingente anterior.
+
+978
+porque son como sentencia
+para buscar al ausente,
+y el pobre que está presente
+que perezca en la endigencia;
+
+979
+hasta que, tanto aguantar
+el rigor con que lo tratan
+o se resierta, o lo matan,
+o lo largan sin pagar.
+
+980
+De ese modo es el pastel,
+porque el gaucho -ya es un hecho-
+no tiene ningún derecho,
+ni naides vuelve por él.
+
+981
+¡La gente vive marchita!
+Si viera cuando echan tropa:
+les vuela a todos la ropa
+que parecen banderitas.
+
+982
+De todos modos lo cargan,
+y al cabo de tanto andar,
+cuando lo largan, lo largan
+como pa echarse a la mar.
+
+983
+Si alguna prenda le han dao
+se la vuelven a quitar:
+poncho, caballo, recao,
+todo tiene que dejar.
+
+984
+Y esos pobres infelices,
+al volver a su destino,
+salen como unos longinos
+sin tener con que cubrirse.
+
+985
+A mí me daba congojas
+el mirarlos de ese modo,
+pues el más aviao de todos
+es un perejil sin hojas.
+
+986
+Aura poco ha sucedido,
+con un invierno tan crudo,
+largarlos a pie y desnudos
+pa volver a su partido.
+
+987
+Y tan duro es lo que pasa
+que, en aquella situación,
+les niegan un mancarrón
+para volver a su casa.
+
+988
+¡Lo tratan como a un infiel!
+Completan su sacrificio
+no dándole ni un papel
+que acredite su servicio.
+
+989
+Y tiene que regresar
+más pobre de lo que jué;
+por supuesto, a la mercé
+del que lo quiere agarrar.
+
+990
+Y no averigüe después
+de los bienes que dejó:
+de hambre, su mujer vendió
+por dos lo que vale diez.
+
+991
+Y como están convenidos
+a jugarle manganeta,
+a reclamar no se meta,
+porque ése es tiempo perdido.
+
+992
+Y luego, si a alguna estancia
+a pedir carne se arrima,
+al punto le cain encima
+con la ley de la vagancia.
+
+993
+Y ya es tiempo, pienso yo,
+de no dar más contingente:
+si el Gobierno quiere gente,
+que la pague y se acabó.
+
+994
+Y saco así en conclusión,
+en medio de mi inorancia,
+que aquí el nacer en estancia
+es como una maldición.
+
+995
+Y digo, aunque no me cuadre
+decir lo que naides dijo:
+la provincia es una madre
+que no defiende a sus hijos.
+
+996
+Mueren en alguna loma
+en defensa de la ley,
+o andan lo mesmo que el güey,
+arando pa que otros coman.
+
+997
+Y he de decir ansí mismo
+porque de adentro me brota
+que no tiene patriotismo
+quien no cuida al compatriota.
+
+
+XXVIII
+
+998
+Se me va por donde quiera
+esta lengua del demonio:
+voy a darles testimonio
+de lo que vi en la frontera.
+
+999
+Yo sé que el único modo,
+a fin de pasarlo bien,
+ee decir a todo: amén,
+y jugarle risa a todo.
+
+1000
+El que no tiene colchón
+en cualquier parte se tiende;
+el gato busca el jogón
+y ese es mozo que lo entiende.
+
+1001
+De aquí comprenderse debe,
+aunque yo hable de este modo,
+que uno busca su acomodo
+siempre lo mejor que puede.
+
+1002
+Lo pasaba como todos
+este pobre penitente;
+pero salí de asistente,
+y mejoré en cierto modo;
+
+1003
+pues aunque esas privaciones
+causen desesperación,
+siempre es mejor el jogón
+de aquel que carga galones.
+
+1004
+De entonces en adelante
+algo logré mejorar,
+pues supe hacerme lugar
+al lado del Ayudante.
+
+1005
+El se daba muchos aires:
+pasaba siempre leyendo;
+decían que estaba aprendiendo
+pa recebirse de flaire.
+
+1006
+Aunque lo pifiaban tanto,
+jamás lo vi dijustao;
+tenía los ojos paraos
+como los ojos de un Santo.
+
+1007
+Muy delicao, dormía en cuja;
+y no sé por qué sería,
+la gente lo aborrecía
+y le llamaban La Bruja.
+
+1008
+Jamás hizo otro servicio
+ni tuvo mas comisiones
+que recebir las raciones
+de víveres y de vicios.
+
+1009
+Yo me pasé a su jogón
+al punto que me sacó,
+y ya con el me llevó
+a cumplir su comisión.
+
+1010
+Estos diablos de milicos
+de todo sacan partido:
+cuando nos vían riunidos
+se limpiaban los hocicos.
+
+1011
+Y decían en los jogones
+como por chocarrería:
+"Con La Bruja y Picardía
+van a andar bien las raciones."
+
+1012
+A mí no me jué tan mal,
+pues mi Oficial se arreglaba;
+les diré lo que pasaba
+sobre este particuiar.
+
+1013
+Decían que estaba de acuerdo
+La Bruja y el provedor,
+y que recebía lo pior;
+puede ser, pues no era lerdo.
+
+1014
+Que a más en la cantidá
+pegaba otro dentellón,
+y que por cada ración
+le entregaban la mitá.
+
+1015
+y que esto lo hacía del modo
+como lo hace un hombre vivo:
+firmando luego el recibo,
+ya se sabe, por el todo.
+
+1016
+Pero esas murmuraciones
+no faltan en campamento.
+Déjenme seguir mi cuento,
+o historia de las raciones.
+
+1017
+La Bruja las recebía,
+como se ha dicho, a su modo;
+las cargabamos, y todo
+se entriega en la mayoría.
+
+1018
+Sacan allí en abundancia
+lo que les toca sacar,
+y es justo que han de dejar
+otro tanto de ganancia.
+
+1019
+Van luego a la compañía;
+las recibe el Comendante,
+el que, de un modo abundante,
+sacaba cuanto quería.
+
+1020
+Ansí la cosa liviana
+va mermada, por supuesto;
+luego se le entrega el resto
+al oficial de semana.
+Araña, ¿quien te arañó?
+Otra araña como yo.
+
+1021
+Este le pasa al sargento
+aquello tan reducido,
+y, como hombre prevenido,
+saca siempre con aumento.
+
+1022
+Esta relación no acabo
+si otra menudencia ensarto,
+el sargento llama al cabo
+para encargarle el reparto.
+
+1023
+El también saca primero
+y no se sabe turbar:
+naides le va a aviriguar
+si ha sacado más o menos.
+
+1024
+Y sufren tanto bocao
+y hacen tantas estaciones,
+que ya casi no hay raciones
+cuando llegan al soldao.
+
+1025
+¡Todo es como pan bendito!
+Y sucede de ordinario
+tener que juatarse varios
+para hacer un pucherito.
+
+1026
+Dicen que las cosas van
+con arreglo a la ordenanza.
+¡Puede ser! Pero no alcanzan;
+¡Tan poquito es lo que dan!
+
+1027
+Algunas veces, yo pienso,
+y es muy justo que lo diga,
+solo llegaban las migas
+que habían quedao en los lienzos.
+
+1028
+Y esplican aquel infierno
+en que uno está medio loco
+diciendo gue dan tan poco
+porque no paga el Gobierno.
+
+1029
+Pero eso yo no lo entiendo,
+ni a aviriguarlo me meto;
+soy inorante completo
+nada olvido y nada apriendo.
+
+1030
+Tiene uno que soportar
+el tratamiento mas vil:
+a palos en lo civil
+a sable en lo militar.
+
+1031
+El vistuario es otro infierno;
+si lo dan, llega a sus manos
+en invierno el de verano,
+y en el verano el de invierno.
+
+1032
+Y yo el motivo no encuentro
+ni la razón que esto tiene,
+mas dicen que eso ya viene
+arreglao dende adentro.
+
+1033
+Y es necesario aguantar
+el rigor de su destino;
+el gaucho no es argentino
+sino pa hacerlo matar.
+
+1034
+Ansi ha de ser, no lo dudo;
+y por eso decía un tonto:
+"Si los han de matar pronto,
+mejor es que estén desnudos,"
+
+1035
+pues esa miseria vieja
+no se remedia jamás;
+todo el que viene detrás
+como la encuentra la deja.
+
+1036
+Y se hallan hombres tan malos
+que dicen de güena gana:
+"El gaucho es como la lana:
+se limpia y compone a palos."
+
+1037
+Y es forzoso el soportar
+aunque la copa se enllene;
+parece que el gaucho tiene
+algún pecao que pagar.
+
+
+XXIX
+
+1038
+Esto contó Picardía
+y después guardó silencio,
+mientras todos celebraban
+con placer aquel encuentro.
+Mas una casualidá,
+como que nunca anda lejos,
+entre tanta gente blanca
+llevó tambien un moreno,
+presumido de cantor
+y que se tenía por güeno.
+Y como quien no hace nada,
+o se descuida de intento,
+pues siempre es muy conocido
+todo aquel que busca pleito,
+se sentó con toda calma,
+echo mano al estrumento
+y ya le pegó un ragido:
+era fantástico el negro;
+y para no dejar dudas,
+medio se compuso el pecho.
+Todo el mundo conoció
+la intención de aquel moreno:
+era claro el desafío
+dirigido a Martín Fierro,
+hecho con toda arrogancia,
+de un modo muy altanero.
+Tomó Fierro la guitarra,
+pues siempre se halla dispuesto,
+y ansí cantaron los dos,
+en medio de un gran silencio:
+
+
+XXX
+
+MARTÍN FIERRO
+1039
+Mientras suene el encordao,
+mientras encuentre el compás
+yo no he de quedarme atrás
+sin defender la parada,
+y he jurado que jamás
+me la han de llevar robada.
+
+1040
+Atiendan, pues, los oyentes
+y cáyense los mirones;
+a todos pido perdones,
+pues a la vista resalta
+que no está libre de falta
+quien no está de tentaciones.
+
+1041
+A un cantor le llaman güeno
+cuando es mejor que los piores;
+y sin ser de los mejores,
+encontrándose dos juntos,
+es deber de los cantores
+el cantar de contrapunto.
+
+1042
+El hombre debe mostrarse
+cuando la ocasión le llegue;
+hace mal el que se niegue,
+dende que lo sabe hacer;
+y muchos suelen tener
+vanagloria en que los rueguen.
+
+1043
+Cuando mozo fuí cantor
+(es una cosa muy dicha);
+mas la suerte se encapricha
+y me persigue costante:
+de ese tiempo en adelante
+canté mis propias desdichas.
+
+1044
+Y aquellos años dichosos
+trataré de recordar;
+veré si puedo olvidar
+tan desgraciada mudanza,
+y quien se tenga confianza
+tiemple, y vamos a cantar.
+
+1045
+Tiemple y cantaremos juntos;
+trasnochadas no acobardan.
+Los concurrentes aguardan,
+y porque el tiempo no pierdan,
+haremos gemir las cuerdas
+hasta que las velas no ardan.
+
+1046
+Y el cantor que se presiente,
+que tenga o no quien lo ampare,
+no espere que yo dispare
+aunque su saber sea mucho:
+vamos en el mesmo pucho
+a prenderle hasta que aclare.
+
+1047
+Y seguiremos si gusta
+hasta que se vaya el día;
+era la costumbre mía
+cantar las noches enteras:
+había entonces, donde quiera,
+cantores de fantasía.
+
+1048
+Y si alguno no se atreve
+a seguir la caravana,
+o si cantando no gana,
+se lo digo sin lisonja:
+haga sonar una esponja
+o ponga cuerdas de lana.
+
+EL MORENO
+1049
+yo no soy, señores míos,
+sino un pobre guitarrero,
+pero doy gracias al Cielo
+porque puedo, en la ocasión,
+toparme con un cantor
+que esperimente a este negro.
+
+1050
+Yo también tengo algo blanco,
+pues tengo blancos los dientes;
+sé vivir entre las gentes
+sin que me tengan en menos:
+quien anda en pagos ajenos
+debe ser manso y prudente.
+
+1051
+Mi madre tuvo diez hijos,
+los nueve muy regulares;
+tal vez por eso me ampare
+la providencia divina:
+en los güevos de gallina
+el décimo es el mas grande.
+
+1052
+El negro es muy amoroso,
+aunque de esto no hace gala;
+nada a su cariño iguala
+ni a su tierna voluntá;
+fs lo mesmo que el macá:
+cría los hijos bajo el ala.
+
+1053
+Pero yo he vivido libre
+y sin depender de naides;
+siempre he cruzado los aires
+como el pájaro sin nido;
+cuanto se lo he aprendido
+porque me lo enseñó un flaire.
+
+1054
+Y sé como cualquier otro
+el porqué retumba el trueno;
+por qué son las estaciones
+del verano y del invierno;
+sé también de donde salen
+las aguas que cain del cielo.
+
+1055
+Yo sé lo gue hay en la tierra
+en llegando al mesmo centro;
+en dónde se encuentra el oro,
+en dónde se encuentra el Fierro
+y en dónde viven bramando
+loe volcanes que echan juego.
+
+1056
+Yo sé del fondo del mar
+donde los pejes nacieron;
+yo sé por que crece el árbol,
+y por que silban los vientos:
+cosas que inoran los blancos
+las sabe este pobre negro.
+
+1057
+Yo tiro cuando me tiran;
+cuando me aflojan, aflojo;
+no se ha de morir de antojo
+quien me convide a cantar;
+para conocer a un cojo
+lo mejor es verlo andar.
+
+1058
+Y si una falta cometo
+en venir a esta riunión,
+echándola de cantor,
+pido perdón en voz alta
+pues nunca se halla una falta
+que no esista otra mayor.
+
+1059
+De lo que un cantor esplica
+no falta qué aprovechar
+y se le debe escuchar
+aunque sea negro el que cante:
+apriende el que es inorante,
+y el que es sabio, apriende más.
+
+1060
+Bajo la frente mas negra
+hay pensamiento y hay vida.
+La gente escuche tranquila,
+no me haga ningún reproche:
+tambien es negra la noche
+y tiene estrellas que brillan.
+
+1061
+Estoy, pues, a su mandao;
+empiece a echarme la sonda,
+si gusta que le responda,
+aunque con lenguaje tosco:
+en leturas no conozco
+la jota, por ser redonda.
+
+MARTÍN FIERRO
+1062
+¡Ah, negro!, si sos tan sabio
+no tengás ningun recelo:
+pero has tragao el anzuelo
+y al compás del estrumento
+has de decirme al momento
+cuál es el canto del Cielo.
+
+EL MORENO
+1063
+cuentan que de mi color
+Dios hizo al hombre primero,
+más los blancos altaneros,
+los mesmos que lo convidan,
+hasta de nombrarlo olvidan
+y sólo le llaman negro.
+
+1064
+Pinta el blanco negro al diablo,
+y el negro, blanco lo pinta;
+blanca la cara o retinta
+no habla en contra ni en favor:
+de los hombres el Criador
+no hizo dos clases distintas.
+
+1065
+Y después de esta alvertencia
+que al presente viene al pelo,
+veré, señores, si puedo,
+sigún mi escaso saber,
+con claridá responder
+cuál es el canto del cielo.
+
+1066
+Los cielos lloran y cantan
+hasta en el mayor silencio:
+lloran al cair el rocío
+cantan al silbar los vientos
+lloran cuando cain las aguas.
+Cantan cuando brama el trueno.
+
+MARTÍN FIERRO
+1067
+Dios hizo al blanco y al negro
+sin declarar los mejores;
+les mandó iguales dolores
+bajo de una mesma cruz;
+mas también hizo la luz
+pa distinguir los colores.
+
+1068
+Ansi, ninguno se agravie;
+no se trata de ofender,
+a todo se ha de poner
+el nombre con que se llama,
+y a naides le quita fama
+lo que recibio al nacer.
+
+1069
+Y ansí me gusta un cantor
+que no se turba ni yerra;
+y si en tu saber se encierra
+el de los sabios projundos;
+decíme cual en el mundo
+es el canto de la tierra.
+
+EL MORENO
+1070
+es pobre mi pensamiento,
+es escasa mi razón,
+mas pa dar contestación
+mi inorancia no se arredra:
+también da chispas la piedra
+si la golpia el eslabón.
+
+1071
+Y le daré una respuesta
+sigún mis pocos alcances:
+forman un canto en la tierra
+el dolor de tanta madre,
+el gemir de los que mueren
+y el llorar de los que nacen.
+
+MARTÍN FIERRO
+1072
+moreno, alvierto que trais
+bien dispuesta la garganta;
+sos varón, y no me espanta
+verte hacer esos primores;
+en los pájaros cantores
+solo el macho es el que canta.
+
+1073
+Y ya que al mundo vinistes
+con el sino de cantar,
+no te vayás a turbar,
+no te agrandés ni te achiques;
+es preciso que me expliques
+cuál es el canto del mar.
+
+EL MORENO
+1074
+a los pájaros cantores
+ninguno imitar pretiende;
+de un don que de otro depende
+naides se debe alabar,
+pues la urraca apriende a hablar,
+pero sólo la hembra apriende.
+
+1075
+Y ayúdame, ingenio mío,
+para ganar esta apuesta;
+mucho el contestar me cuesta.
+Pero debo contestar;
+yoy a decir en respuesta
+cuál es el canto del mar.
+
+1076
+Cuando la tormenta brama,
+el mar, que todo lo encierra,
+canta de un modo que aterra,
+corno si el mundo temblara:
+parece que se quejara
+de que lo estreche la tierra.
+
+MARTÍN FIERRO
+1077
+toda tu sabiduría
+has de mostrar esta vez;
+ganarás sólo que estés
+en baca con algún Santo.
+La noche tiene su canto,
+y me has de decir cuál es.
+
+EL MORENO
+1078
+no galope, que hay aujeros,
+le dijo a un guapo un prudente
+le contestó humildemente:
+la noche por cantos tiene
+esos ruidos que uno siente
+sin saber por dónde vienen.
+
+1079
+Son los secretos misterios
+que las tinieblas esconden;
+son los ecos que responden
+a la voz del que da un grito;
+como un lamento infinito
+que viene no sé de dónde.
+
+1080
+A las sombras sólo el sol
+las penetra y las impone;
+en distintas direcciones
+se oyen rumores inciertos:
+son almas de los que han muerto,
+que nos piden oraciones.
+
+MARTÍN FIERRO
+1081
+moreno, por tus respuestas
+yo te aplico el cartabón,
+pues tenés desposición
+y sos estruido, de yapa:
+ni las sombras se te escapan
+para dar esplicación.
+
+1082
+Pero cumple su deber
+el lial diciendo lo cierto,
+y, por lo tanto, te alvierto
+que hemos de cantar los dos,
+dejando en la paz de Dios
+las almas de los que han muerto.
+
+1083
+Y el consejo del prudente
+no hace falta en la partida;
+siempre ha de ser comedida
+la palabra de un cantor.
+Y aura quiero que me digas
+de dónde nace el amor.
+
+EL MORENO
+1084
+a pregunta tan escura
+trataré de responder,
+aunque es mucho pretender
+de un pobre negro de estancia,
+mas conocer su inorancia
+es principio del saber.
+
+1085
+Ama el pájaro en los aires
+que cruza por donde quiera,
+y si al fin de su carrera
+se asienta en alguna rama,
+con su alegre canto llama
+a su amante compañera.
+
+1086
+La fiera ama en su guarida,
+de la que es rey y señor;
+allí lanza con juror
+esos bramidos que espantan,
+porque las fieras no cantan:
+las fieras braman de amor.
+
+1087
+Ama en el fondo del mar
+el pez de lindo color;
+ama el hombre con ardor;
+ama todo cuanto vive:
+de Dios vida se recibe,
+y donde hay vida, hay amor.
+
+MARTÍN FIERRO
+1088
+me gusta, negro ladino,
+lo que acabás de esplicar;
+ya te empiezo a respetar;
+aundue al principio me rei,
+y te quiero preguntar
+lo que entendés por la ley.
+
+EL MORENO
+1089
+hay muchas dotorerías
+que yo no puedo alcanzar;
+dende que aprendí a inorar
+de ningún saber me asombro,
+mas no ha de llevarme al hombro
+quien me convide a cantar.
+
+1090
+Yo no soy cantor ladino
+y mi habilidá es muy poca;
+más cuando cantar me toca
+me defiendo en el combate,
+porque soy como los mates:
+sirvo si me abren la boca.
+
+1091
+Dende que elige a su gusto,
+lo más espinoso elige;
+pero esto poco me aflige
+y le contesto a mi modo:
+la ley se hace para todos,
+mas sólo al pobre le rige.
+
+1092
+La ley es tela de araña
+-en mi inorancia lo esplico-.
+No la tema el hombre rico;
+nunca la tema el que mande;
+pues la ruempe el bicho grande
+y sólo enrieda a los chicos.
+
+1093
+Es la ley como la lluvia:
+nunca puede ser pareja;
+el que la aguanta se queja,
+pero el asunto es sencillo:
+la ley es como el cuchillo:
+no ofiende a quien lo maneja.
+
+1094
+Le suelen llamar espada
+y el nombre le viene bien;
+los que la gobiernan ven
+a dónde han de dar el tajo:
+le cai al que se halla abajo
+y corta sin ver a quién.
+
+1095
+Hay muchos que son dotores,
+y de su cencia no dudo;
+mas yo soy un negro rudo
+y aunque de esto poco entiendo,
+estoy diariamente viendo
+que aplican la del embudo.
+
+MARTÍN FIERRO
+1096
+moreno, vuelvo a decirte:
+ya conozco tu medida;
+has aprovechao la vida,
+y me alegro de este encuentro;
+ya veo que tenés adentro
+capital pa esta partida.
+
+1097
+Y aura te voy a decir;
+porque en mi deber está
+(y hace honor a la verdá
+quien a la verdá se duebla)
+que sos por juera tinieblas
+y por dentro claridá.
+
+1098
+No ha de decirse jamás
+que abusé de tu pacencia,
+y en justa correspondencia,
+si algo querés preguntar,
+podés al punto empezar,
+pues ya tenés mi licencia.
+
+EL MORENO
+1099
+no te trabes lengua mía;
+no te vayas a turbar;
+nadie acierta antes de errar,
+y, aunque la fama se juega,
+el que por gusto navega
+no debe temerle al mar.
+
+1100
+Voy a hacerle mis preguntas,
+ya que a tanto nne convida,
+y vencerá en la partida
+si una esplicación me da
+sobre el tiempo y la medida,
+el peso y la cantidá.
+
+1101
+Suya sera la vitoria
+si es que sabe contestar;
+se lo debo declarar
+con claridá, no se asombre,
+pues hasta aura ningún hombre
+me lo ha sabido esplicar.
+
+1102
+Quiero saber y lo inoro,
+pues en mis libros no está
+-y su respuesta vendrá
+a servirme de gobierno-,
+para que fin el Eterno
+ha criado la cantidá.
+
+MARTÍN FIERRO
+1103
+moreno, te dejas cair
+como carancho en su nido;
+ya veo que sos prevenido,
+mas también estoy dispuesto;
+veremos si te contesto
+y si te das por vencido.
+
+1104
+Uno es el sol, uno el mundo,
+sola y única es la luna
+ansí han de saber que Dios
+no crió cantidá ninguna.
+
+1105
+El ser de todos los seres
+solo formo la unidá;
+lo demás lo ha criado el hombre
+después que aprendió a contar.
+
+EL MORENO
+1106
+verernos si a otra pregunta
+da una respuesta cumplida:
+ei ser que ha criado la vida
+lo ha de tener en su archivo,
+mas yo inoro que motivo
+tuvo al formar la medida.
+
+MARTÍN FIERRO
+1107
+escuchá con atención
+lo que en mi inorancia arguyo:
+la medida la inventó
+el hombre para bien suyo;
+
+1108
+y la razón no te asombre,
+pues es fácil presumir:
+Dios no tenía que medir
+sino la vida del hombre.
+
+EL MORENO
+1109
+si no falla su saber
+por vencedor lo confieso;
+debe aprender todo eso
+quien a cantar se dedique;
+y aura quiero que me esplique
+la que significa el peso.
+
+MARTÍN FIERRO
+1110
+Dios guarda entre sus secretos
+el secreto que eso encierra,
+y mandó que todo peso
+cayera siempre en la tierra;
+
+1111
+y sigún compriendo yo,
+dende que hay bienes y males,
+jué el peso para pesar
+las culpas de los mortales.
+
+EL MORENO
+1112
+si responde a esta pregunta
+tengase por vencedor
+(doy la derecha al mejor);
+y respóndame al momento:
+¿cuándo formó Dios el tiempo
+y por que lo dividió?
+
+MARTÍN FIERRO
+1113
+Moreno, voy a decir,
+sigún mi saber alcanza:
+el tiempo sólo es tardanza
+de lo que está por venir;
+
+1114
+no tuvo nunca principio
+ni jamás acabará,
+porque el tiempo es una rueda.
+Y rueda es eternidá.
+
+1115
+Y si el hombre lo divide,
+sólo lo hace, en mi sentir,
+por saber lo que ha vivido
+o le resta que vivir.
+
+1116
+Ya te he dado mis respuestas,
+mas no gana quien despunta;
+si tenés otra pregunta
+o de algo te has olvidao,
+siempre estoy a tu mandao
+para sacarte de dudas.
+
+1117
+No procedo por soberbia
+ni tampoco por jactancia,
+mas no ha de faltar costancia
+cuando es preciso luchar;
+y te convido a cantar
+sobre cosas de la estancia.
+
+1118
+Ansi prepará, moreno,
+cuanto tu saber encierre,
+y sin que tu lengua yerre,
+me has de decir lo que empriende;
+el que del tiempo depende,
+en los meses que train erre.
+
+EL MORENO
+1119
+De la inorancia de naides
+ninguno debe abusar;
+y aunque me puede doblar
+todo el que tenga más arte,
+no voy a ninguna parte
+a dejarme machetiar.
+
+1120
+He reclarao que en leturas
+soy redondo como jota;
+no avergüence mi redota,
+pues con claridá le digo:
+no me gusta que conmigo
+naides juegue a la pelota.
+
+1121
+Es güena ley que el más lerdo
+debe perder la carrera;
+ansí le pasa a cualquiera,
+cuando en competencia se halla
+un cantor de media talla
+con otro de talla entera.
+
+1122
+¿No han visto en medio del campo
+al hombre que anda perdido,
+dando güeltas afligido,
+sin saber donde rumbiar
+ansí le suele pasar
+a un pobre cantor vencido.
+
+1123
+También los árboles crujen
+si el ventarrón los azota,
+y si aquí mi queja brota
+con amargura, consiste
+en que es muy larga y muy triste
+la noche de la redota.
+
+1124
+Y dende hoy en adelante,
+pongo de testigo al Cielo
+para decir sin recelo
+que, si mi pecho se inflama.
+No cantaré por la fama
+sino por buscar consuelo.
+
+1125
+Vive ya desesperao
+quien no tiene qué esperar;
+a lo que no ha de durar
+ningún cariño se cobre;
+alegrías en un pobre
+son anuncios de pesar.
+
+1126
+Y este triste desengaño
+me durará mientras viva;
+aunque un consuelo reciba
+jamás he de alzar el vuelo:
+quien no nace para el cielo
+de balde es que mire arriba.
+
+1127
+Y suplico a cuantos me oigan
+que me permitan decir
+que, al decidirme a venir,
+no sólo jué por cantar,
+sino porque tengo a más
+otro deber que cumplir.
+
+1128
+Ya saben que de mi madre
+jueron diez los que nacieron,
+mas ya no esiste el primero
+y mas querido de todos:
+murió por injustos modos
+a manos de un pendenciero.
+
+1129
+Los nueve hermanos restantes
+como güerfanos quedamos;
+dende entonces lo lloramos
+sin consuelo, creanmeló,
+y al hombre que lo mató,
+nunca jamás lo encontramos.
+
+1130
+Y queden en paz los güesos
+de aquel hermano querido;
+a moverlos no he venido,
+mas, si el caso se presienta,
+espero en Dios que esta cuenta
+se arregle como es debido.
+
+1131
+Y si otra ocasión payamos
+para que esto se complete,
+por mucho que lo respete,
+cantaremos, si le gusta,
+sobre las muertes injustas.
+Que algunos hombres cometen.
+
+1132
+Y aquí, pues, señores míos,
+diré, como en despedida,
+que todavía andan con vida
+los hermanos del dijunto,
+que recuerdan este asunto
+y aquella muerte no olvidan.
+
+1133
+Y es misterio tan projundo
+lo que está por suceder,
+que no me debo meter
+a echarla aquí de adivino;
+lo que decida el destino
+después lo habran de saber.
+
+MARTÍN FIERRO
+1134
+al fin cerrastes el pico
+después de tanto charlar;
+ya empezaba a maliciar,
+al verte tan entonao,
+que traías un embuchao
+y no lo querías largar.
+
+1135
+Y ya que nos conocemos,
+basta de conversación;
+para encontrar la ocasión
+no tienen que darse priesa;
+ya conozco yo que empieza
+otra clase de junción.
+
+1136
+Yo no sé lo que vendrá;
+tampoco soy adivino;
+pero firme en mi camino
+hasta el fin he de seguir:
+todos tienen que cumplir
+con la ley de su destino.
+
+1137
+Primero jué la frontera
+por persecución de un juez;
+los indios jueron después,
+y, para nuevos estrenos,
+aura son estos morenos
+pa alivio de mi vejez.
+
+1138
+La madre echó diez al mundo,
+lo que cualquiera no hace,
+y tal vez de los diez pase
+con iguales condiciones:
+la mulita pare nones,
+todos de la mesma clase.
+
+1139
+A hombre de humilde color
+nunca sé facilitar;
+cuando se llega a enojar
+suele ser de mala entraña:
+se vuelve como la araña,
+siempre dispuesta a picar.
+
+1140
+Yo he conocido a toditos
+los negros mas peliadores;
+había algunos superiores
+de cuerpo y de vista...¡Ahijuna!
+si vivo, les daré una...
+historia de las mejores.
+
+1141
+Mas cada uno ha de tirar
+en el yugo en que se vea;
+yo ya no busco peleas,
+las contiendas no me gustan,
+pero ni sombras me asustan
+ni bultos que se menean.
+
+1142
+La creia ya desollada,
+mas todavía falta el rabo,
+y por lo visto no acabo
+de salir de esta jarana;
+pues esto es lo que se llama
+remacharsele a uno el clavo.
+
+
+XXXI
+
+1143
+Y después de estas palabras
+que ya la intención revelan,
+procurando los presentes
+que no se armara pendencia,
+se pusieron de por medio
+y la cosa quedó quieta.
+Martín Fierro y los muchachos,
+evitando la contienda,
+montaron y paso a paso,
+como el que miedo no lleva,
+a la costa de un arroyo
+llegaron a echar pie a tierra.
+Desensillaron los pingos
+y se sentaron en rueda,
+refiriéndose entre sí
+infinitas menudencias
+porque tiene muchos cuentos
+y muchos hijos la ausiencia.
+Allí pasaron la noche
+a la luz de las estrellas,
+porque ese es un cortinao
+que lo halla uno donde quiera,
+y el gaucho sabe arreglarse
+como ninguno se arregla:
+el colchón son las caronas,
+el lomillo es cabecera,
+el cojinillo es blandura
+y con el poncho o la jerga;
+para salvar del rocío,
+se cubre hasta la cabeza.
+Tiene su cuchillo al lado
+-pues la precaución es güena-,
+freno y rebenque a la mano,
+y, teniendo el pingo cerca,
+que pa asigurarlo bien
+la argolla del lazo entierra
+-aunque el atar con el lazo
+da del hombre mala idea-,
+se duerme ansí muy tranquilo
+todita la noche entera;
+y si es lejos del camino,
+como manda la prudencia,
+mas siguro que en su rancho
+uno ronca a pierna suelta
+pues en el suelo no hay chinche
+y es una cuja camera
+que no ocasiona disputas
+y que naides se la niega.
+Ademas de eso, una noche
+la pasa uno como quiera,
+y las va pasando todas
+haciendo la mesma cuenta;
+y luego los pajaritos
+al aclarar lo dispiertan,
+porque el sueño no lo agarra
+a quien sin cenar se acuesta.
+Ansí, pues, aquella noche
+jué para ellos una fiesta,
+pues todo parece alegre
+cuando el corazón se alegra.
+No pudiendo vivir juntos
+por su estado de pobreza,
+resolvieron separarse
+y que cada cual se juera
+a procurarse un refugio
+que aliviara su miseria.
+Y antes de desparramarse
+para empezar vida nueva,
+en aquella soledá
+Martín Fierro, con prudencia,
+a sus hijos y al de Cruz
+les habló de esta manera:
+
+
+XXXII
+
+1144
+-Un padre que da consejos
+más que padre es un amigo;
+ansi como tal les digo
+que vivan con precaución:
+naides sabe en que rincón
+se oculta el que es su enemigo.
+
+1145
+Yo nunca tuve otra escuela
+que una vida desgraciada:
+no estrañen si en la jugada
+alguna vez me equivoco,
+pues debe saber muy poco
+aquel que no aprendió nada.
+
+1146
+Hay hombres que de su cencia
+tienen la cabeza llena;
+hay sabios de todas menas,
+mas digo, sin ser muy ducho:
+es mejor que aprender mucho
+el aprender cosas gúenas.
+
+1147
+No aprovechan los trabajos
+si no han de enseñarnos nada;
+el hombre, de una mirada,
+todo ha de verlo al momento:
+el primer conocimiento
+es conocer cuándo enfada.
+
+1148
+Su esperanza no la cifren
+nunca en corazón alguno;
+en el mayor infortunio
+pongan su confianza en Dios;
+de los hombres, sólo en uno;
+con gran precaución en dos.
+
+1149
+Las faltas no tiene límites
+como tienen los terrenos;
+se encuentran en los mas güenos,
+y es justo que les prevenga:
+aquel que defetos tenga,
+disimule los ajenos.
+
+1150
+Al que es amigo, jamás
+lo dejen en la estacada,
+pero no le pidan nada
+ni lo aguarden todo de el:
+siempre el amigo más fiel
+es una conducta honrada.
+
+1151
+Ni el miedo ni la codicia
+es güeno que a uno le asalten,
+ansi, no se sobresalten
+por los bienes que perezcan;
+al rico nunca le ofrezcan
+y al pobre jamás le falten.
+
+1152
+Bien lo pasa, hasta entre pampas,
+el que respeta a la gente;
+el hombre ha de ser prudente
+para librarse de enojos:
+cauteloso entre los flojos,
+moderado entre valientes.
+
+1153
+El trabajar es la ley,
+porque es preciso alquirir;
+no se espongan a sufrir
+una triste situación:
+sangra mucho el corazón
+del que tiene que pedir.
+
+1154
+Debe trabajar el hombre
+para ganarse su pan;
+pues la miseria, en su afán
+de perseguir de mil modos,
+llama en la puerta de todos
+y entra en la del haragán.
+
+1155
+A ningún hombre amenacen,
+porque naides se acobarda;
+poco en conocerlo tarda
+quien amenaza imprudente:
+que hay un peligro presente
+y otro peligro se aguarda.
+
+1156
+Para vencer un peligro,
+salvar de cualquier abismo
+-por esperencia lo afirmo-,
+más que el sable y que la lanza
+suele servir la confianza
+que el hombre tiene en si mismo.
+
+1157
+Nace el hombre con la astucia
+que ha de servirle de guía;
+sin ella sucumbiría:
+pero, sigún mi esperencia,
+se vuelve en unos prudencia
+y en los otros picardía.
+
+1158
+Aprovecha la ocasión
+el hombre que es diligente;
+y, tenganló bien presente:
+si al compararla no yerro,
+la ocasión es como el fierro:
+se ha de machacar caliente.
+
+1159
+Muchas cosas pierde el hombre
+que a veces las vuelve a hallar;
+pero les debo enseñar,
+y es gúeno que lo recuerden:
+si la verguenza se pierde,
+jamás se vuelve a encontrar.
+
+1160
+Los hermanos sean unidos
+porque ésa es la ley primera
+tengan unión verdadera
+en cualquier tiempo que sea,
+porque, si entre ellos pelean,
+los devoran los de ajuera.
+
+1161
+Respeten a los ancianos:
+el burlarlos no es hazaña;
+si andan entre gente estraña
+deben ser muy precavidos,
+pues por igual es tenido
+quien con malos se acompaña.
+
+1162
+La cigüeña, cuando es vieja,
+pierde la vista, y procuran
+cuidarla en su edá madura
+todas sus hijas pequeñas:
+apriendan de las cigüeñas
+este ejemplo de ternura.
+
+1163
+Si les hacen una ofensa,
+aunque la echen en olvido,
+vivan siempre prevenidos;
+pues ciertamente sucede
+que hablará muy mal de ustedes
+aquel que los ha ofendido.
+
+1164
+El que obedeciendo vive
+nunca tiene suerte blanda,
+mas con su soberbia agranda
+el rigor en que padece:
+obedezca al que obedece
+y será gúeno el que manda.
+
+1165
+Procuren de no perder
+ni el tiempo ni la vergüenza;
+como todo hombre que piensa,
+procedan siempre con juicio;
+y sepan que ningún vicio
+acaba donde comienza.
+
+1166
+Ave de pico encorvado
+le tiene al robo afición;
+pero el hombre de razón
+no roba jamás un cobre,
+pues no es vergúenza ser pobre
+y es vergúenza ser ladrón.
+
+1167
+El hombre no mate al hombre
+ni pelé por fantasía;
+tiene en la desgracia mía
+un espejo en que mirarse;
+saber el hombre guardarse
+es la gran sabiduría.
+
+1168
+La sangre que se redama
+no se olvida hasta la muerte;
+la impresión es de tal suerte,
+que, a mi pesar, no lo niego,
+cai como gotas de juego
+en la alma dei que la vierte.
+
+1169
+Es siempre, en toda ocasión,
+el trago el pior enemigo;
+con cariño se los digo,
+recuérdenlo con cuidado:
+aquel que ofiende embriagado
+merece doble castigo.
+
+1170
+Si se arma algun revolutis,
+siempre han de ser los primeros,
+no se muestren altaneros,
+aungue la razón les sobre:
+en la barba de los pobres
+aprienden pa ser barberos.
+
+1171
+Si entriegan su corazón
+a alguna mujer querida,
+no le hagan una partida
+que la ofienda a la mujer:
+siempre los ha de perder
+una mujer ofendida.
+
+1172
+Procuren, si son cantores,
+el cantar con sentimiento,
+ni tiemplen el estrumento
+por sólo el gusto de hablar,
+y acostúmbrense a cantar
+en cosas de jundamento.
+
+1173
+Y les doy estos consejos
+que me ha costado alquirirlos,
+porque deseo dirigirlos;
+pero no alcanza mi cencia
+hasta darles la prudencia
+que precisan pa seguirlos.
+
+1174
+Estas cosas y otras muchas
+medité en mis soledades;
+sepan que no hay falsedades
+ni error en estos consejos:
+es de la boca del viejo
+de ande salen las verdades.
+
+
+XXXIII
+
+1175
+Después a los cuatro vientos
+los cuatro se dirigieron;
+una promesa se hicieron
+que todos debían cumplir;
+mas no la puedo decir
+pues secreto prometieron.
+
+1176
+Les alvierto solamente
+-y esto a ninguno le asombre,
+pues muchas veces el hombre
+tiene que hacer de ese modo-;
+convinieron entre todos
+en mudar allí de nombre.
+
+1177
+Sin ninguna intención mala
+lo hicieron, no tengo duda;
+pero es la verdá desnuda
+-siempre suele suceder-:
+aquel que su nombre muda
+tiene culpas que esconder.
+
+1178
+Y ya dejo el estrumento
+con que he divertido a ustedes;
+todos conocerlo pueden
+que tuve costancia suma:
+este es un botón de pluma
+que no hay quien lo desenriede.
+
+1179
+Con mi deber he cumplido,
+y ya he salido del paso;
+pero diré, por si acaso,
+pa que me entiendan los criollos:
+todavía me quedan rollos
+por si se ofrece dar lazo.
+
+1180
+Y con esto me despido
+sin espresar hasta cuándo;
+siempre corta por lo blando
+el que busca lo siguro,
+mas yo corto por lo duro,
+y ansí he de seguir cortando.
+
+1181
+Vive el águila en su nido,
+el tigre vive en su selva,
+el zorro en la cueva ajena,
+y, en su destino incostante,
+solo el gaucho vive errante
+donde la suerte lo lleva.
+
+1182
+Es el pobre en su orfandá
+de la fortuna el desecho,
+porque naides toma a pechos
+el defender a su raza:
+debe el gaucho tener casa,
+escuela, iglesia y derechos.
+
+1183
+Y han de concluir algún día
+estos enriedos maaditos;
+la obra no la facilito
+porque aumentan el fandango
+los que están, como el chimango
+sobre el cuero y dando gritos.
+
+1184
+Mas Dios ha de permitir
+que esto llegue a mejorar;
+pero se ha de recordar,
+para hacer bien el trabajo,
+que el juego, pa calentar,
+debe ir siempre por abajo.
+
+1185
+En su ley está el de arriba
+si hace lo que le aproveche;
+de sus favores sospeche
+hasta el mesmo que lo nombra
+siempre es dañosa la sombra
+del árbol que tiene leche.
+
+1186
+Al pobre, al menor descuido,
+lo levantan de un sogazo,
+pero yo compriendo el caso
+y esta consecuencia saco:
+el gaucho es el cuero flaco:
+da los tientos para el lazo.
+
+1187
+Y en lo que esplica mi lengua
+todos deben tener fé;
+ansí; pues, entiendanmé,
+can codicias no me mancho:
+no se ha de llover el rancho
+en donde este libro esté.
+
+1188
+Permítanme descansar,
+¡pues he trabajado tanto!
+En este punto me planto
+y a continuar me resisto:
+estos son treinta y tres cantos,
+que es la mesma edá de Cristo.
+
+1189
+Y guarden estas palabras
+que les digo al terminar:
+en mi obra he de continuar
+hasta dárselas concluida,
+si el ingenio o si la vida
+no me llegan a faltar.
+
+1190
+Y si la vida me falta,
+tenganló todos por cierto
+que el gaucho, hasta en el desierto,
+sentirá en tal ocasión
+tristeza en el corazón,
+al saber que yo estoy muerto.
+
+1191
+Pues son mis dichas desdichas
+las de todos mis hermanos;
+ellos guardaran ufanos
+en su corazón mi historia:
+me tendrán en su memoria
+para siempre mis paisanos.
+
+1192
+Es la memoria un gran don,
+calidá muy meritoria;
+y aquellos que en esta historia
+sospechen que les doy palo,
+sepan que olvidar lo malo
+también es tener memoria.
+
+1193
+Mas naides se crea ofendido
+pues a ninguno incomodo,
+y si canto de este modo,
+por encontrarlo oportuno,
+no es para mal de ninguno
+sino para bien de todos.
+
+
+FIN
+
+
+
+
+
+End of Project Gutenberg's La Vuelta de Martín Fierro, by José Hernández
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK LA VUELTA DE MARTÍN FIERRO ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
